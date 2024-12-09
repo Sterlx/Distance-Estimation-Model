@@ -1,0 +1,452 @@
+56.8m - 49.2 m - Gaussian = 1.7 - Variance = 2.81 - no T = 42.45 m
+Q=  2.8179068360556565
+SD =  1.678662216187538
+Mean value =  -79.24137931034483
+
+65.5m - 57 m - Gaussian = 2.06 - Variance = 4.25 - no T = 47.69 m
+Q=  4.257912457912457
+SD =  2.0634709733631964
+Mean value =  -80.96363636363637
+
+90m - 96.5m - Guassian = 3.88 - Variance = 15.12 - no T = 110.2 m
+Q=  15.123755334281649
+SD =  3.8889272729483704
+Mean value =  -85.10526315789474
+
+1. Mean Value of distance: 28.557912240707616
+   Mean distance with no T:  23.61415253165784
+   Real distance:  30.5
+   STD=  2.203908241842554
+   Mean raw RSSI value:  -74.04615384615384
+   Percentage Error:  6.367500850138966 %
+   Direct error:  1.9420877592923844
+2. Mean Value of distance: 36.477733456191665
+   Mean distance with no T:  27.901509370341348
+   Real distance:  40
+   STD=  3.107480730051038
+   Mean raw RSSI value:  -74.07246376811594
+   Percentage Error:  8.805666359520838 %
+   Direct error:  3.5222665438083354
+ 3. Mean Value of distance: 45.92046491336658
+    Mean distance with no T:  35.44634227632094
+    Real distance:  47.3
+    STD=  3.0016209991655924
+    Mean raw RSSI value:  -76.92063492063492
+    Percentage Error:  2.9165646651869293 %
+    Direct error:  1.3795350866334175
+ 4. Mean Value of distance: 49.5307896237619
+    Mean distance with no T:  39.18255134364904
+    Real distance:  55
+    STD=  2.717241241024896
+    Mean raw RSSI value:  -79.66019417475728
+    Percentage Error:  9.94401886588746 %
+    Direct error:  5.469210376238102
+ 5. Mean Value of distance: 56.98301895097598
+    Mean distance with no T:  47.69269555894793
+    Real distance:  63
+    STD=  2.0634709733631964
+    Mean raw RSSI value:  -80.96363636363637
+    Percentage Error:  9.550763569879393 %
+    Direct error:  6.016981049024018
+ 6. Mean Value of distance: 96.83897373685872
+    Mean distance with no T:  69.2434298701628
+    Real distance:  90.7
+    STD=  3.8889272729483704
+    Mean raw RSSI value:  -85.10526315789474
+    Percentage Error:  6.768438519138606 %
+    Direct error:  6.138973736858716
+7. Mean Value of distance: 36.52080033493702
+   Mean distance with no T:  27.897167353703693
+   Real distance:  40
+   STD=  3.1229655382206434
+   Mean raw RSSI value:  -74.6969696969697
+   Percentage Error:  8.697999162657446 %
+   Direct error:  3.4791996650629784
+8. Mean Value of distance: 41.297673453908544
+   Mean distance with no T:  33.140582383313
+   Real distance:  43.2
+   STD=  2.5512664646164858
+   Mean raw RSSI value:  -77.55555555555556
+   Percentage Error:  4.403533671508006 %
+   Direct error:  1.9023265460914587
+ 9. Mean Value of distance: 36.02474727980194
+    Mean distance with no T:  30.618909915999545
+    Real distance:  42
+    STD=  1.8850749121653405
+    Mean raw RSSI value:  -76.2063492063492
+    Percentage Error:  14.226792190947753 %
+    Direct error:  5.975252720198057
+ 10. Mean Value of distance: 36.80293275361317
+     Mean distance with no T:  31.073938564440063
+     Real distance:  42
+     STD=  1.9618249848763356
+     Mean raw RSSI value:  -76.70967741935483
+     Percentage Error:  12.373969634254356 %
+     Direct error:  5.19706724638683
+11. Mean Value of distance: 47.768013062980046
+    Mean distance with no T:  37.945327786865036
+    Real distance:  42
+    STD=  2.669089444274669
+    Mean raw RSSI value:  -77.43076923076923
+    Percentage Error:  13.733364435666775 %
+    Direct error:  5.768013062980046
+12. Mean Value of distance: 41.423315867023284
+    Mean distance with no T:  33.90798221985848
+    Real distance:  42
+    STD=  2.3210746190907754
+    Mean raw RSSI value:  -76.93333333333334
+    Percentage Error:  1.3730574594683715 %
+    Direct error:  0.5766841329767161
+13. Mean Value of distance: 47.768013062980046
+    Mean distance with no T:  37.945327786865036
+    Real distance:  43.2
+    STD=  2.669089444274669
+    Mean raw RSSI value:  -77.43076923076923
+    Percentage Error:  10.574104312453802 %
+    Direct error:  4.568013062980043
+14. Mean Value of distance: 34.55138108206933
+    Mean distance with no T:  30.728681906496966
+    Real distance:  42
+    STD=  1.359427114873978
+    Mean raw RSSI value:  -75.7457627118644
+    Percentage Error:  17.734806947453986 %
+    Direct error:  7.448618917930673
+15. Mean Value of distance: 41.297673453908544
+    Mean distance with no T:  33.140582383313
+    Real distance:  43.2
+    STD=  2.5512664646164858
+    Mean raw RSSI value:  -77.55555555555556
+    Percentage Error:  4.403533671508006 %
+    Direct error:  1.9023265460914587
+16. Mean Value of distance: 52.55613272341909
+    Mean distance with no T:  35.394996922078086
+    Real distance:  60
+    STD=  4.5833019130329244
+    Mean raw RSSI value:  -78.84126984126983
+    Percentage Error:  12.406445460968184 %
+    Direct error:  7.44386727658091
+17. Mean Value of distance: 70.44755323753536
+    Mean distance with no T:  50.37993678091229
+    Real distance:  72.2
+    STD=  3.887237096563311
+    Mean raw RSSI value:  -81.54
+    Percentage Error:  2.427211582361002 %
+    Direct error:  1.7524467624646434
+18. Mean Value of distance: 81.05268875140904
+    Mean distance with no T:  55.83888281223066
+    Real distance:  74
+    STD=  4.320319244111565
+    Mean raw RSSI value:  -83.03846153846153
+    Percentage Error:  9.530660474877076 %
+    Direct error:  7.052688751409036
+ 19.Mean Value of distance: 95.44389326105477
+    Mean distance with no T:  69.56637320282866
+    Real distance:  90
+    STD=  3.666736747010602
+    Mean raw RSSI value:  -84.8936170212766
+    Percentage Error:  6.048770290060854 %
+    Direct error:  5.443893261054768
+/--------------------------------------------------------------------------------/
+testing indoor
+1. Q=  3.657474600870827
+   SD =  1.912452509441954
+   Mean value =  -38.35849056603774
+   real = 3.5 m
+   no T = 2.8 m
+   estimated = 3.18 m
+2.Q=  6.952913752913753
+  SD =  2.6368378321227404
+  Mean value =  -40.96969696969697
+  real = 4m
+  es = 4.2m
+  no T = 3.5 m
+  Root Mean Squared Error (RMSE): 0.8090242579799448
+4.Q=  2.9981851179673322
+  SD =  1.7315268169934106
+  Mean value =  -41.8620689655172
+  Real = 5m
+  Es = 5.12 m
+  No T = 4.24 m
+3.Q=  10.596793708408953
+  SD =  3.2552716796619223
+  Mean value =  -50.706896551724135
+  real = 7.5 m
+  es = 8.6 m
+  No T = 9.42 m
+////////////////////////////////////////////////////
+1. Mean Value of distance: 4.433409091914473
+   Mean distance with no T:  3.542713600528332
+   Real distance:  5.2
+   STD=  2.0484331649757452
+   Mean raw RSSI value:  -41.333333333333336
+   Percentage Error:  14.742132847798606 %
+   Direct error:  0.7665909080855275
+2.Mean Value of distance: 6.007347044183728
+  Mean distance with no T:  4.2553319995543175
+  Real distance:  5.5
+  STD=  3.1493411103473643
+  Mean raw RSSI value:  -42.14705882352941
+  Percentage Error:  9.224491712431417 %
+  Direct error:  0.507347044183728
+3.Mean Value of distance: 7.608947890194051
+  Mean distance with no T:  5.528140072669647
+  Real distance:  5.7
+  STD=  2.9179248986712656
+  Mean raw RSSI value:  -43.48571428571429
+  Percentage Error:  33.490313863053515 %
+  Direct error:  1.9089478901940504
+4.Mean Value of distance: 6.82973397360746
+  Mean distance with no T:  5.115850629017843
+  Real distance:  5.7
+  STD=  2.6390646040210277
+  Mean raw RSSI value:  -43.0735294117647
+  Percentage Error:  19.819894273815077 %
+  Direct error:  1.1297339736074594
+5. Mean Value of distance: 4.651586034715748
+   Mean distance with no T:  3.0041638952172574
+   Real distance:  5
+   STD=  3.9932669026194025
+   Mean raw RSSI value:  -40.078125
+   Percentage Error:  6.968279305685048 %
+   Direct error:  0.3484139652842524
+6. Mean Value of distance: 3.5578232770528646
+   Mean distance with no T:  2.4222126508102253
+   Real distance:  4.5
+   STD=  3.5115503578181757
+   Mean raw RSSI value:  -38.416666666666664
+   Percentage Error:  20.937260509936344 %
+   Direct error:  0.9421767229471354
+7.Mean Value of distance: 4.938031894352641
+  Mean distance with no T:  3.939717079620322
+  Real distance:  5.2
+  STD=  2.0628832418570564
+  Mean raw RSSI value:  -41.205882352941174
+  Percentage Error:  5.037848185526132 %
+  Direct error:  0.26196810564735884
+8.Mean Value of distance: 4.159012484693269
+  Mean distance with no T:  3.3216256824949135
+  Real distance:  4.7
+  STD=  2.053433676004938
+  Mean raw RSSI value:  -40.76190476190476
+  Percentage Error:  11.51037266610066 %
+  Direct error:  0.540987515306731
+9 Mean Value of distance: 4.677776453443386
+  Mean distance with no T:  4.11949688406628
+  Real distance:  4.7
+  STD=  1.160798822766421
+  Mean raw RSSI value:  -42.10294117647059
+  Percentage Error:  0.47284141609818114 %
+  Direct error:  0.022223546556614515
+10. Mean Value of distance: 3.9594829471012627
+    Mean distance with no T:  2.9665683187587737
+    Real distance:  4.7
+    STD=  2.636923469616702
+    Mean raw RSSI value:  -39.276923076923076
+    Percentage Error:  15.755681976568884 %
+    Direct error:  0.7405170528987375
+11. Mean Value of distance: 4.192092422400768
+    Mean distance with no T:  3.405013138560706
+    Real distance:  4.7
+    STD=  1.8993312526937494
+    Mean raw RSSI value:  -39.84848484848485
+    Percentage Error:  10.806544204238975 %
+    Direct error:  0.5079075775992319
+12.Mean Value of distance: 4.2217746702968935
+   Mean distance with no T:  3.6141014819350272
+   Real distance:  4.7
+   STD=  1.419465023303129
+   Mean raw RSSI value:  -40.71875
+   Percentage Error:  10.175007014959716 %
+   Direct error:  0.4782253297031067
+13. Mean Value of distance: 4.160967665686295
+    Mean distance with no T:  3.625182439693119
+    Real distance:  4.7
+    STD=  1.2589954108115107
+    Mean raw RSSI value:  -40.546875
+    Percentage Error:  11.46877307050437 %
+    Direct error:  0.5390323343137053
+14. Mean Value of distance: 4.05559283959888
+    Mean distance with no T:  3.2857049816494373
+    Real distance:  4.6
+    STD=  1.9227537261303353
+    Mean raw RSSI value:  -40.29577464788732
+    Percentage Error:  11.834938269589557 %
+    Direct error:  0.5444071604011196
+15 Mean Value of distance: 3.12116474283365
+   Mean distance with no T:  2.4956289852790987
+   Real distance:  3
+   STD=  2.042858086008553
+   Mean raw RSSI value:  -37.13513513513514
+   Percentage Error:  4.038824761121665 %
+   Direct error:  0.12116474283364997
+16. Mean Value of distance: 2.9718677546393333
+    Mean distance with no T:  2.4889851022676996
+    Real distance:  3
+    STD=  1.61951962718697
+    Mean raw RSSI value:  -37.515151515151516
+    Percentage Error:  0.937741512022224 %
+    Direct error:  0.02813224536066672
+17. Mean Value of distance: 4.819148178996963
+    Mean distance with no T:  3.6106902207778906
+    Real distance:  5
+    STD=  2.6368378321227404
+    Mean raw RSSI value:  -40.96969696969697
+    Percentage Error:  3.6170364200607352 %
+    Direct error:  0.18085182100303676
+ 18. Mean Value of distance: 7.2227009135892475
+     Mean distance with no T:  6.107462798248715
+     Real distance:  7
+     STD=  1.5318553935717065
+     Mean raw RSSI value:  -41.71186440677966
+     Percentage Error:  3.1814416227035354 %
+     Direct error:  0.22270091358924748
+ 19. Mean Value of distance: 5.6456616623595055
+     Mean distance with no T:  4.623811323026396
+     Real distance:  5
+     STD=  1.8236770197434702
+     Mean raw RSSI value:  -42.6875
+     Percentage Error:  12.913233247190108 %
+     Direct error:  0.6456616623595055
+20. Mean Value of distance: 6.393618861260756
+    Mean distance with no T:  4.047463598179674
+    Real distance:  5.2
+    STD=  4.175947581804645
+    Mean raw RSSI value:  -41.883720930232556
+    Percentage Error:  22.95420887039915 %
+    Direct error:  1.193618861260756
+21. Mean Value of distance: 7.719709248746261
+    Mean distance with no T:  5.841879752466666
+    Real distance:  7
+    STD=  2.545738461375302
+    Mean raw RSSI value:  -44.86274509803921
+    Percentage Error:  10.281560696375156 %
+    Direct error:  0.7197092487462609
+/------------------------------------------------------------------------------/
+direct_errors = [
+    0.7665909080855275,
+    0.507347044183728,
+    1.9089478901940504,
+    1.1297339736074594,
+    0.3484139652842524,
+    0.9421767229471354,
+    0.26196810564735884,
+    0.540987515306731,
+    0.022223546556614515,
+    0.7405170528987375,
+    0.5079075775992319,
+    0.4782253297031067,
+    0.5390323343137053,
+    0.5444071604011196,
+    0.12116474283364997,
+    0.02813224536066672,
+    0.18085182100303676,
+    0.22270091358924748,
+    0.6456616623595055,
+    1.193618861260756,
+    0.7197092487462609
+]
+
+mean_distances = [
+    4.433409091914473,
+    6.007347044183728,
+    7.608947890194051,
+    6.82973397360746,
+    4.651586034715748,
+    3.5578232770528646,
+    4.938031894352641,
+    4.159012484693269,
+    4.677776453443386,
+    3.9594829471012627,
+    4.192092422400768,
+    4.2217746702968935,
+    4.160967665686295,
+    4.05559283959888,
+    3.12116474283365,
+    2.9718677546393333,
+    4.819148178996963,
+    7.2227009135892475,
+    5.6456616623595055,
+    6.393618861260756,
+    7.719709248746261
+]
+
+mean_distances_no_T = [
+    3.542713600528332,
+    4.2553319995543175,
+    5.528140072669647,
+    5.115850629017843,
+    3.0041638952172574,
+    2.4222126508102253,
+    3.939717079620322,
+    3.3216256824949135,
+    4.11949688406628,
+    2.9665683187587737,
+    3.405013138560706,
+    3.6141014819350272,
+    3.625182439693119,
+    3.2857049816494373,
+    2.4956289852790987,
+    2.4889851022676996,
+    3.6106902207778906,
+    6.107462798248715,
+    4.623811323026396,
+    4.047463598179674,
+    5.841879752466666
+]
+
+direct_error_no_T=[1.6572863994716682, 1.2446680004456825, 0.17185992733035338, 0.584149370982157, 1.9958361047827426, 2.0777873491897747, 1.2602829203796784, 1.3783743175050867, 0.5805031159337206, 1.7334316812412265, 1.2949868614392943, 1.085898518064973, 1.0748175603068812, 1.3142950183505624, 0.5043710147209013, 0.5110148977323004, 1.3893097792221094, 0.8925372017512849, 0.37618867697360425, 1.152536401820326, 1.1581202475333336]
+
+/----------------------------------------------------------------------------/
+outdoor measurements
+direct_errors = [
+    1.9420877592923844,
+    3.5222665438083354,
+    1.3795350866334175,
+    5.469210376238102,
+    6.016981049024018,
+    6.138973736858716,
+    3.4791996650629784,
+    1.9023265460914587,
+    5.975252720198057,
+    5.19706724638683,
+    5.768013062980046,
+    0.5766841329767161,
+    4.568013062980043,
+    7.448618917930673,
+    1.9023265460914587,
+    7.44386727658091,
+    1.7524467624646434,
+    7.052688751409036,
+    5.443893261054768,
+    7.6,
+    8.5,
+    6.5
+]
+
+direct_errors_no_T = [
+    30.5 - 23.61415253165784,
+    40 - 27.901509370341348,
+    47.3 - 35.44634227632094,
+    55 - 39.18255134364904,
+    63 - 47.69269555894793,
+    90.7 - 69.2434298701628,
+    40 - 27.897167353703693,
+    43.2 - 33.140582383313,
+    42 - 30.618909915999545,
+    42 - 31.073938564440063,
+    42 - 37.945327786865036,
+    42 - 33.90798221985848,
+    43.2 - 37.945327786865036,
+    42 - 30.728681906496966,
+    43.2 - 33.140582383313,
+    60 - 35.394996922078086,
+    72.2 - 50.37993678091229,
+    74 - 55.83888281223066,
+    90 - 69.56637320282866,
+    14.3,
+    18.8,
+    20.2
+]
+
+
+

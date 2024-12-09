@@ -1,0 +1,4801 @@
+[
+    {
+        "type": "up",
+        "payload": {
+            "applicationID": "54",
+            "applicationName": "Batdau",
+            "deviceName": "Hello1",
+            "devEUI": "Iembo25a5Eg=",
+            "rxInfo": [
+                {
+                    "gatewayID": "rB8J//4Aqwo=",
+                    "time": "2024-04-17T09:35:22.199847Z",
+                    "timeSinceGPSEpoch": "1397381740.199s",
+                    "rssi": -68,
+                    "loRaSNR": 9.8,
+                    "channel": 7,
+                    "rfChain": 1,
+                    "board": 0,
+                    "antenna": 0,
+                    "location": {
+                        "latitude": 16.07524,
+                        "longitude": 108.15341,
+                        "altitude": 66,
+                        "source": "UNKNOWN",
+                        "accuracy": 0
+                    },
+                    "fineTimestampType": "NONE",
+                    "context": "IW8v/A==",
+                    "uplinkID": "CQ2vhdqoQ8OD7LL+JBvunA==",
+                    "crcStatus": "CRC_OK"
+                }
+            ],
+            "txInfo": {
+                "frequency": 922800000,
+                "modulation": "LORA",
+                "loRaModulationInfo": {
+                    "bandwidth": 125,
+                    "spreadingFactor": 7,
+                    "codeRate": "4/5",
+                    "polarizationInversion": false
+                }
+            },
+            "adr": true,
+            "dr": 5,
+            "fCnt": 130,
+            "fPort": 1,
+            "data": "AWcBNwJojgMCAUkEZSq8BHEAAAAAAAA=",
+            "objectJSON": "null",
+            "tags": {},
+            "confirmedUplink": false,
+            "devAddr": "AYaE3g==",
+            "publishedAt": "2024-04-17T09:37:06.801662989Z",
+            "deviceProfileID": "a5f5e16d-7c26-4e42-9917-10c80166c604",
+            "deviceProfileName": "ABP_AS923"
+        }
+    },
+    {
+        "type": "up",
+        "payload": {
+            "applicationID": "54",
+            "applicationName": "Batdau",
+            "deviceName": "Hello1",
+            "devEUI": "Iembo25a5Eg=",
+            "rxInfo": [
+                {
+                    "gatewayID": "rB8J//4G/PI=",
+                    "time": "2024-04-17T09:35:19.945158Z",
+                    "timeSinceGPSEpoch": "1397381737.945s",
+                    "rssi": -71,
+                    "loRaSNR": 7.3,
+                    "channel": 6,
+                    "rfChain": 1,
+                    "board": 0,
+                    "antenna": 0,
+                    "location": {
+                        "latitude": 16.07518,
+                        "longitude": 108.15406,
+                        "altitude": 28,
+                        "source": "UNKNOWN",
+                        "accuracy": 0
+                    },
+                    "fineTimestampType": "NONE",
+                    "context": "vpe1vA==",
+                    "uplinkID": "ElkwVwvDRlSb5qwh2DJ3Pw==",
+                    "crcStatus": "CRC_OK"
+                }
+            ],
+            "txInfo": {
+                "frequency": 922600000,
+                "modulation": "LORA",
+                "loRaModulationInfo": {
+                    "bandwidth": 125,
+                    "spreadingFactor": 7,
+                    "codeRate": "4/5",
+                    "polarizationInversion": false
+                }
+            },
+            "adr": true,
+            "dr": 5,
+            "fCnt": 129,
+            "fPort": 1,
+            "data": "AWcBOAJojgMCAUkEZSrWBHEAAAAAAAA=",
+            "objectJSON": "null",
+            "tags": {},
+            "confirmedUplink": false,
+            "devAddr": "AYaE3g==",
+            "publishedAt": "2024-04-17T09:37:04.493443799Z",
+            "deviceProfileID": "a5f5e16d-7c26-4e42-9917-10c80166c604",
+            "deviceProfileName": "ABP_AS923"
+        }
+    },
+    {
+        "type": "up",
+        "payload": {
+            "applicationID": "54",
+            "applicationName": "Batdau",
+            "deviceName": "Hello1",
+            "devEUI": "Iembo25a5Eg=",
+            "rxInfo": [
+                {
+                    "gatewayID": "rB8J//4G/PI=",
+                    "time": "2024-04-17T09:35:17.690525Z",
+                    "timeSinceGPSEpoch": "1397381735.690s",
+                    "rssi": -69,
+                    "loRaSNR": 8.5,
+                    "channel": 5,
+                    "rfChain": 1,
+                    "board": 0,
+                    "antenna": 0,
+                    "location": {
+                        "latitude": 16.07518,
+                        "longitude": 108.15406,
+                        "altitude": 28,
+                        "source": "UNKNOWN",
+                        "accuracy": 0
+                    },
+                    "fineTimestampType": "NONE",
+                    "context": "vnVOlA==",
+                    "uplinkID": "nr3CYd5YTNCfEaBAOg5G3A==",
+                    "crcStatus": "CRC_OK"
+                },
+                {
+                    "gatewayID": "rB8J//4Aqwo=",
+                    "time": "2024-04-17T09:35:17.690526Z",
+                    "timeSinceGPSEpoch": "1397381735.690s",
+                    "rssi": -68,
+                    "loRaSNR": 10,
+                    "channel": 5,
+                    "rfChain": 1,
+                    "board": 0,
+                    "antenna": 0,
+                    "location": {
+                        "latitude": 16.07524,
+                        "longitude": 108.15341,
+                        "altitude": 66,
+                        "source": "UNKNOWN",
+                        "accuracy": 0
+                    },
+                    "fineTimestampType": "NONE",
+                    "context": "ISphdA==",
+                    "uplinkID": "43zcFbwfRr6b3RZKmn9xtQ==",
+                    "crcStatus": "CRC_OK"
+                }
+            ],
+            "txInfo": {
+                "frequency": 922400000,
+                "modulation": "LORA",
+                "loRaModulationInfo": {
+                    "bandwidth": 125,
+                    "spreadingFactor": 7,
+                    "codeRate": "4/5",
+                    "polarizationInversion": false
+                }
+            },
+            "adr": true,
+            "dr": 5,
+            "fCnt": 128,
+            "fPort": 1,
+            "data": "AWcBOAJojgMCAUkEZSraBHEAAAAAAAA=",
+            "objectJSON": "null",
+            "tags": {},
+            "confirmedUplink": false,
+            "devAddr": "AYaE3g==",
+            "publishedAt": "2024-04-17T09:37:02.268502010Z",
+            "deviceProfileID": "a5f5e16d-7c26-4e42-9917-10c80166c604",
+            "deviceProfileName": "ABP_AS923"
+        }
+    },
+    {
+        "type": "up",
+        "payload": {
+            "applicationID": "54",
+            "applicationName": "Batdau",
+            "deviceName": "Hello1",
+            "devEUI": "Iembo25a5Eg=",
+            "rxInfo": [
+                {
+                    "gatewayID": "rB8J//4Aqwo=",
+                    "time": "2024-04-17T09:35:13.181174Z",
+                    "timeSinceGPSEpoch": "1397381731.181s",
+                    "rssi": -68,
+                    "loRaSNR": 10,
+                    "channel": 3,
+                    "rfChain": 0,
+                    "board": 0,
+                    "antenna": 0,
+                    "location": {
+                        "latitude": 16.07524,
+                        "longitude": 108.15341,
+                        "altitude": 66,
+                        "source": "UNKNOWN",
+                        "accuracy": 0
+                    },
+                    "fineTimestampType": "NONE",
+                    "context": "IOWSyw==",
+                    "uplinkID": "NlAXqxI5TxmhRK039qqMJQ==",
+                    "crcStatus": "CRC_OK"
+                }
+            ],
+            "txInfo": {
+                "frequency": 922000000,
+                "modulation": "LORA",
+                "loRaModulationInfo": {
+                    "bandwidth": 125,
+                    "spreadingFactor": 7,
+                    "codeRate": "4/5",
+                    "polarizationInversion": false
+                }
+            },
+            "adr": true,
+            "dr": 5,
+            "fCnt": 126,
+            "fPort": 1,
+            "data": "AWcBOAJojgMCAUkEZSrpBHEAAAAAAAA=",
+            "objectJSON": "null",
+            "tags": {},
+            "confirmedUplink": false,
+            "devAddr": "AYaE3g==",
+            "publishedAt": "2024-04-17T09:36:57.735349743Z",
+            "deviceProfileID": "a5f5e16d-7c26-4e42-9917-10c80166c604",
+            "deviceProfileName": "ABP_AS923"
+        }
+    },
+    {
+        "type": "up",
+        "payload": {
+            "applicationID": "54",
+            "applicationName": "Batdau",
+            "deviceName": "Hello1",
+            "devEUI": "Iembo25a5Eg=",
+            "rxInfo": [
+                {
+                    "gatewayID": "rB8J//4G/PI=",
+                    "time": "2024-04-17T09:35:10.923823Z",
+                    "timeSinceGPSEpoch": "1397381728.924s",
+                    "rssi": -68,
+                    "loRaSNR": 7.5,
+                    "channel": 2,
+                    "rfChain": 0,
+                    "board": 0,
+                    "antenna": 0,
+                    "location": {
+                        "latitude": 16.07518,
+                        "longitude": 108.15406,
+                        "altitude": 28,
+                        "source": "UNKNOWN",
+                        "accuracy": 0
+                    },
+                    "fineTimestampType": "NONE",
+                    "context": "vg4OIw==",
+                    "uplinkID": "/m5OURw+RaGJWooyEknsgg==",
+                    "crcStatus": "CRC_OK"
+                }
+            ],
+            "txInfo": {
+                "frequency": 921800000,
+                "modulation": "LORA",
+                "loRaModulationInfo": {
+                    "bandwidth": 125,
+                    "spreadingFactor": 7,
+                    "codeRate": "4/5",
+                    "polarizationInversion": false
+                }
+            },
+            "adr": true,
+            "dr": 5,
+            "fCnt": 125,
+            "fPort": 1,
+            "data": "AWcBOAJojwMCAUkEZSr5BHEAAAAAAAA=",
+            "objectJSON": "null",
+            "tags": {},
+            "confirmedUplink": false,
+            "devAddr": "AYaE3g==",
+            "publishedAt": "2024-04-17T09:36:55.480869507Z",
+            "deviceProfileID": "a5f5e16d-7c26-4e42-9917-10c80166c604",
+            "deviceProfileName": "ABP_AS923"
+        }
+    },
+    {
+        "type": "up",
+        "payload": {
+            "applicationID": "54",
+            "applicationName": "Batdau",
+            "deviceName": "Hello1",
+            "devEUI": "Iembo25a5Eg=",
+            "rxInfo": [
+                {
+                    "gatewayID": "rB8J//4P1ik=",
+                    "time": "2024-04-17T09:35:08.669143Z",
+                    "timeSinceGPSEpoch": "1397381726.669s",
+                    "rssi": -111,
+                    "loRaSNR": -6.3,
+                    "channel": 1,
+                    "rfChain": 0,
+                    "board": 0,
+                    "antenna": 0,
+                    "location": {
+                        "latitude": 16.06817,
+                        "longitude": 108.15443,
+                        "altitude": 31,
+                        "source": "UNKNOWN",
+                        "accuracy": 0
+                    },
+                    "fineTimestampType": "NONE",
+                    "context": "0B+AGA==",
+                    "uplinkID": "6FxDMXwgRbqeR2m46r6uDg==",
+                    "crcStatus": "CRC_OK"
+                },
+                {
+                    "gatewayID": "rB8J//4Aqwo=",
+                    "time": "2024-04-17T09:35:08.669132Z",
+                    "timeSinceGPSEpoch": "1397381726.669s",
+                    "rssi": -66,
+                    "loRaSNR": 9.3,
+                    "channel": 1,
+                    "rfChain": 0,
+                    "board": 0,
+                    "antenna": 0,
+                    "location": {
+                        "latitude": 16.07524,
+                        "longitude": 108.15341,
+                        "altitude": 66,
+                        "source": "UNKNOWN",
+                        "accuracy": 0
+                    },
+                    "fineTimestampType": "NONE",
+                    "context": "IKC5ow==",
+                    "uplinkID": "SrD+cEGxR3K7hJH9tgdblQ==",
+                    "crcStatus": "CRC_OK"
+                }
+            ],
+            "txInfo": {
+                "frequency": 921600000,
+                "modulation": "LORA",
+                "loRaModulationInfo": {
+                    "bandwidth": 125,
+                    "spreadingFactor": 7,
+                    "codeRate": "4/5",
+                    "polarizationInversion": false
+                }
+            },
+            "adr": true,
+            "dr": 5,
+            "fCnt": 124,
+            "fPort": 1,
+            "data": "AWcBOQJojwMCAUkEZSsEBHEAAAAAAAA=",
+            "objectJSON": "null",
+            "tags": {},
+            "confirmedUplink": false,
+            "devAddr": "AYaE3g==",
+            "publishedAt": "2024-04-17T09:36:53.222629512Z",
+            "deviceProfileID": "a5f5e16d-7c26-4e42-9917-10c80166c604",
+            "deviceProfileName": "ABP_AS923"
+        }
+    },
+    {
+        "type": "up",
+        "payload": {
+            "applicationID": "54",
+            "applicationName": "Batdau",
+            "deviceName": "Hello1",
+            "devEUI": "Iembo25a5Eg=",
+            "rxInfo": [
+                {
+                    "gatewayID": "rB8J//4G/PI=",
+                    "time": "2024-04-17T09:35:06.414439Z",
+                    "timeSinceGPSEpoch": "1397381724.414s",
+                    "rssi": -71,
+                    "loRaSNR": 9.5,
+                    "channel": 0,
+                    "rfChain": 0,
+                    "board": 0,
+                    "antenna": 0,
+                    "location": {
+                        "latitude": 16.07522,
+                        "longitude": 108.15403,
+                        "altitude": 31,
+                        "source": "UNKNOWN",
+                        "accuracy": 0
+                    },
+                    "fineTimestampType": "NONE",
+                    "context": "vck/Ww==",
+                    "uplinkID": "eRL5buB9Sp+VVsUQyBLYeA==",
+                    "crcStatus": "CRC_OK"
+                },
+                {
+                    "gatewayID": "rB8J//4P1ik=",
+                    "time": "2024-04-17T09:35:06.414451Z",
+                    "timeSinceGPSEpoch": "1397381724.414s",
+                    "rssi": -111,
+                    "loRaSNR": -5.3,
+                    "channel": 0,
+                    "rfChain": 0,
+                    "board": 0,
+                    "antenna": 0,
+                    "location": {
+                        "latitude": 16.06817,
+                        "longitude": 108.15443,
+                        "altitude": 31,
+                        "source": "UNKNOWN",
+                        "accuracy": 0
+                    },
+                    "fineTimestampType": "NONE",
+                    "context": "z/0YtA==",
+                    "uplinkID": "7Uige1UGT9y7QzKrochJeA==",
+                    "crcStatus": "CRC_OK"
+                }
+            ],
+            "txInfo": {
+                "frequency": 921400000,
+                "modulation": "LORA",
+                "loRaModulationInfo": {
+                    "bandwidth": 125,
+                    "spreadingFactor": 7,
+                    "codeRate": "4/5",
+                    "polarizationInversion": false
+                }
+            },
+            "adr": true,
+            "dr": 5,
+            "fCnt": 123,
+            "fPort": 1,
+            "data": "AWcBNwJokQMCAUkEZSr+BHEAAAAAAAA=",
+            "objectJSON": "null",
+            "tags": {},
+            "confirmedUplink": false,
+            "devAddr": "AYaE3g==",
+            "publishedAt": "2024-04-17T09:36:50.989325953Z",
+            "deviceProfileID": "a5f5e16d-7c26-4e42-9917-10c80166c604",
+            "deviceProfileName": "ABP_AS923"
+        }
+    },
+    {
+        "type": "up",
+        "payload": {
+            "applicationID": "54",
+            "applicationName": "Batdau",
+            "deviceName": "Hello1",
+            "devEUI": "Iembo25a5Eg=",
+            "rxInfo": [
+                {
+                    "gatewayID": "rB8J//4Aqwo=",
+                    "time": "2024-04-17T09:35:04.159702Z",
+                    "timeSinceGPSEpoch": "1397381722.159s",
+                    "rssi": -68,
+                    "loRaSNR": 9.8,
+                    "channel": 7,
+                    "rfChain": 1,
+                    "board": 0,
+                    "antenna": 0,
+                    "location": {
+                        "latitude": 16.07524,
+                        "longitude": 108.15341,
+                        "altitude": 66,
+                        "source": "UNKNOWN",
+                        "accuracy": 0
+                    },
+                    "fineTimestampType": "NONE",
+                    "context": "IFvqrA==",
+                    "uplinkID": "dgUBPkHBTdy5K1NQWmq4Lw==",
+                    "crcStatus": "CRC_OK"
+                }
+            ],
+            "txInfo": {
+                "frequency": 922800000,
+                "modulation": "LORA",
+                "loRaModulationInfo": {
+                    "bandwidth": 125,
+                    "spreadingFactor": 7,
+                    "codeRate": "4/5",
+                    "polarizationInversion": false
+                }
+            },
+            "adr": true,
+            "dr": 5,
+            "fCnt": 122,
+            "fPort": 1,
+            "data": "AWcBOAJokQMCAUkEZSsFBHEAAAAAAAA=",
+            "objectJSON": "null",
+            "tags": {},
+            "confirmedUplink": false,
+            "devAddr": "AYaE3g==",
+            "publishedAt": "2024-04-17T09:36:48.735355356Z",
+            "deviceProfileID": "a5f5e16d-7c26-4e42-9917-10c80166c604",
+            "deviceProfileName": "ABP_AS923"
+        }
+    },
+    {
+        "type": "up",
+        "payload": {
+            "applicationID": "54",
+            "applicationName": "Batdau",
+            "deviceName": "Hello1",
+            "devEUI": "Iembo25a5Eg=",
+            "rxInfo": [
+                {
+                    "gatewayID": "rB8J//4G/PI=",
+                    "time": "2024-04-17T09:35:01.905017Z",
+                    "timeSinceGPSEpoch": "1397381719.905s",
+                    "rssi": -71,
+                    "loRaSNR": 8.8,
+                    "channel": 6,
+                    "rfChain": 1,
+                    "board": 0,
+                    "antenna": 0,
+                    "location": {
+                        "latitude": 16.07522,
+                        "longitude": 108.15403,
+                        "altitude": 31,
+                        "source": "UNKNOWN",
+                        "accuracy": 0
+                    },
+                    "fineTimestampType": "NONE",
+                    "context": "vYRwbA==",
+                    "uplinkID": "iCcGDwl4SHaucowBzuEw6Q==",
+                    "crcStatus": "CRC_OK"
+                }
+            ],
+            "txInfo": {
+                "frequency": 922600000,
+                "modulation": "LORA",
+                "loRaModulationInfo": {
+                    "bandwidth": 125,
+                    "spreadingFactor": 7,
+                    "codeRate": "4/5",
+                    "polarizationInversion": false
+                }
+            },
+            "adr": true,
+            "dr": 5,
+            "fCnt": 121,
+            "fPort": 1,
+            "data": "AWcBOQJokAMCAUkEZSsQBHEAAAAAAAA=",
+            "objectJSON": "null",
+            "tags": {},
+            "confirmedUplink": false,
+            "devAddr": "AYaE3g==",
+            "publishedAt": "2024-04-17T09:36:46.468587056Z",
+            "deviceProfileID": "a5f5e16d-7c26-4e42-9917-10c80166c604",
+            "deviceProfileName": "ABP_AS923"
+        }
+    },
+    {
+        "type": "up",
+        "payload": {
+            "applicationID": "54",
+            "applicationName": "Batdau",
+            "deviceName": "Hello1",
+            "devEUI": "Iembo25a5Eg=",
+            "rxInfo": [
+                {
+                    "gatewayID": "rB8J//4Aqwo=",
+                    "time": "2024-04-17T09:34:59.650356Z",
+                    "timeSinceGPSEpoch": "1397381717.650s",
+                    "rssi": -68,
+                    "loRaSNR": 10.3,
+                    "channel": 5,
+                    "rfChain": 1,
+                    "board": 0,
+                    "antenna": 0,
+                    "location": {
+                        "latitude": 16.07524,
+                        "longitude": 108.15341,
+                        "altitude": 66,
+                        "source": "UNKNOWN",
+                        "accuracy": 0
+                    },
+                    "fineTimestampType": "NONE",
+                    "context": "IBccDA==",
+                    "uplinkID": "NpWFvZ7URF6o9jCWAbOfyg==",
+                    "crcStatus": "CRC_OK"
+                },
+                {
+                    "gatewayID": "rB8J//4G/PI=",
+                    "time": "2024-04-17T09:34:59.650361Z",
+                    "timeSinceGPSEpoch": "1397381717.650s",
+                    "rssi": -70,
+                    "loRaSNR": 8.5,
+                    "channel": 5,
+                    "rfChain": 1,
+                    "board": 0,
+                    "antenna": 0,
+                    "location": {
+                        "latitude": 16.07522,
+                        "longitude": 108.15403,
+                        "altitude": 31,
+                        "source": "UNKNOWN",
+                        "accuracy": 0
+                    },
+                    "fineTimestampType": "NONE",
+                    "context": "vWIJLA==",
+                    "uplinkID": "2oo4SunjS5yzWDEZXeC57A==",
+                    "crcStatus": "CRC_OK"
+                }
+            ],
+            "txInfo": {
+                "frequency": 922400000,
+                "modulation": "LORA",
+                "loRaModulationInfo": {
+                    "bandwidth": 125,
+                    "spreadingFactor": 7,
+                    "codeRate": "4/5",
+                    "polarizationInversion": false
+                }
+            },
+            "adr": true,
+            "dr": 5,
+            "fCnt": 120,
+            "fPort": 1,
+            "data": "AWcBOAJojwMCAUkEZSsVBHEAAAAAAAA=",
+            "objectJSON": "null",
+            "tags": {},
+            "confirmedUplink": false,
+            "devAddr": "AYaE3g==",
+            "publishedAt": "2024-04-17T09:36:44.205735518Z",
+            "deviceProfileID": "a5f5e16d-7c26-4e42-9917-10c80166c604",
+            "deviceProfileName": "ABP_AS923"
+        }
+    },
+    {
+        "type": "up",
+        "payload": {
+            "applicationID": "54",
+            "applicationName": "Batdau",
+            "deviceName": "Hello1",
+            "devEUI": "Iembo25a5Eg=",
+            "rxInfo": [
+                {
+                    "gatewayID": "rB8J//4G/PI=",
+                    "time": "2024-04-17T09:34:55.141016Z",
+                    "timeSinceGPSEpoch": "1397381713.141s",
+                    "rssi": -69,
+                    "loRaSNR": 7.5,
+                    "channel": 3,
+                    "rfChain": 0,
+                    "board": 0,
+                    "antenna": 0,
+                    "location": {
+                        "latitude": 16.07522,
+                        "longitude": 108.15403,
+                        "altitude": 31,
+                        "source": "UNKNOWN",
+                        "accuracy": 0
+                    },
+                    "fineTimestampType": "NONE",
+                    "context": "vR06iw==",
+                    "uplinkID": "8fprzPacQLqR/9hieKQOUQ==",
+                    "crcStatus": "CRC_OK"
+                },
+                {
+                    "gatewayID": "rB8J//4Aqwo=",
+                    "time": "2024-04-17T09:34:55.141020Z",
+                    "timeSinceGPSEpoch": "1397381713.141s",
+                    "rssi": -68,
+                    "loRaSNR": 9.8,
+                    "channel": 3,
+                    "rfChain": 0,
+                    "board": 0,
+                    "antenna": 0,
+                    "location": {
+                        "latitude": 16.07524,
+                        "longitude": 108.15341,
+                        "altitude": 66,
+                        "source": "UNKNOWN",
+                        "accuracy": 0
+                    },
+                    "fineTimestampType": "NONE",
+                    "context": "H9JNcw==",
+                    "uplinkID": "mzrJXkJaSzaIhQRmcObXzg==",
+                    "crcStatus": "CRC_OK"
+                }
+            ],
+            "txInfo": {
+                "frequency": 922000000,
+                "modulation": "LORA",
+                "loRaModulationInfo": {
+                    "bandwidth": 125,
+                    "spreadingFactor": 7,
+                    "codeRate": "4/5",
+                    "polarizationInversion": false
+                }
+            },
+            "adr": true,
+            "dr": 5,
+            "fCnt": 118,
+            "fPort": 1,
+            "data": "AWcBOAJojwMCAUkEZSsiBHEAAAAAAAA=",
+            "objectJSON": "null",
+            "tags": {},
+            "confirmedUplink": false,
+            "devAddr": "AYaE3g==",
+            "publishedAt": "2024-04-17T09:36:39.713732266Z",
+            "deviceProfileID": "a5f5e16d-7c26-4e42-9917-10c80166c604",
+            "deviceProfileName": "ABP_AS923"
+        }
+    },
+    {
+        "type": "up",
+        "payload": {
+            "applicationID": "54",
+            "applicationName": "Batdau",
+            "deviceName": "Hello1",
+            "devEUI": "Iembo25a5Eg=",
+            "rxInfo": [
+                {
+                    "gatewayID": "rB8J//4Aqwo=",
+                    "time": "2024-04-17T09:34:50.629042Z",
+                    "timeSinceGPSEpoch": "1397381708.629s",
+                    "rssi": -68,
+                    "loRaSNR": 10.3,
+                    "channel": 1,
+                    "rfChain": 0,
+                    "board": 0,
+                    "antenna": 0,
+                    "location": {
+                        "latitude": 16.07524,
+                        "longitude": 108.15341,
+                        "altitude": 66,
+                        "source": "UNKNOWN",
+                        "accuracy": 0
+                    },
+                    "fineTimestampType": "NONE",
+                    "context": "H410iw==",
+                    "uplinkID": "gpSPvo7OQXOhDo1KicHJ1Q==",
+                    "crcStatus": "CRC_OK"
+                },
+                {
+                    "gatewayID": "rB8J//4P1ik=",
+                    "time": "2024-04-17T09:34:50.629059Z",
+                    "timeSinceGPSEpoch": "1397381708.629s",
+                    "rssi": -111,
+                    "loRaSNR": -7.5,
+                    "channel": 1,
+                    "rfChain": 0,
+                    "board": 0,
+                    "antenna": 0,
+                    "location": {
+                        "latitude": 16.06817,
+                        "longitude": 108.15443,
+                        "altitude": 31,
+                        "source": "UNKNOWN",
+                        "accuracy": 0
+                    },
+                    "fineTimestampType": "NONE",
+                    "context": "zww7Aw==",
+                    "uplinkID": "34F+wlrrQhOi8PW29OsqEQ==",
+                    "crcStatus": "CRC_OK"
+                }
+            ],
+            "txInfo": {
+                "frequency": 921600000,
+                "modulation": "LORA",
+                "loRaModulationInfo": {
+                    "bandwidth": 125,
+                    "spreadingFactor": 7,
+                    "codeRate": "4/5",
+                    "polarizationInversion": false
+                }
+            },
+            "adr": true,
+            "dr": 5,
+            "fCnt": 116,
+            "fPort": 1,
+            "data": "AWcBNwJojgMCAUkEZSssBHEAAAAAAAA=",
+            "objectJSON": "null",
+            "tags": {},
+            "confirmedUplink": false,
+            "devAddr": "AYaE3g==",
+            "publishedAt": "2024-04-17T09:36:35.197074945Z",
+            "deviceProfileID": "a5f5e16d-7c26-4e42-9917-10c80166c604",
+            "deviceProfileName": "ABP_AS923"
+        }
+    },
+    {
+        "type": "up",
+        "payload": {
+            "applicationID": "54",
+            "applicationName": "Batdau",
+            "deviceName": "Hello1",
+            "devEUI": "Iembo25a5Eg=",
+            "rxInfo": [
+                {
+                    "gatewayID": "rB8J//4P1ik=",
+                    "time": "2024-04-17T09:34:48.374344Z",
+                    "timeSinceGPSEpoch": "1397381706.374s",
+                    "rssi": -109,
+                    "loRaSNR": -6.8,
+                    "channel": 0,
+                    "rfChain": 0,
+                    "board": 0,
+                    "antenna": 0,
+                    "location": {
+                        "latitude": 16.06817,
+                        "longitude": 108.15443,
+                        "altitude": 31,
+                        "source": "UNKNOWN",
+                        "accuracy": 0
+                    },
+                    "fineTimestampType": "NONE",
+                    "context": "zunTiA==",
+                    "uplinkID": "bIm6OB8OTsOArJ/zAD7v/Q==",
+                    "crcStatus": "CRC_OK"
+                },
+                {
+                    "gatewayID": "rB8J//4G/PI=",
+                    "time": "2024-04-17T09:34:48.374330Z",
+                    "timeSinceGPSEpoch": "1397381706.374s",
+                    "rssi": -71,
+                    "loRaSNR": 10.5,
+                    "channel": 0,
+                    "rfChain": 0,
+                    "board": 0,
+                    "antenna": 0,
+                    "location": {
+                        "latitude": 16.07522,
+                        "longitude": 108.15403,
+                        "altitude": 31,
+                        "source": "UNKNOWN",
+                        "accuracy": 0
+                    },
+                    "fineTimestampType": "NONE",
+                    "context": "vLX6Kw==",
+                    "uplinkID": "0n5Bu2bPS0y2WNtonDdV3Q==",
+                    "crcStatus": "CRC_OK"
+                }
+            ],
+            "txInfo": {
+                "frequency": 921400000,
+                "modulation": "LORA",
+                "loRaModulationInfo": {
+                    "bandwidth": 125,
+                    "spreadingFactor": 7,
+                    "codeRate": "4/5",
+                    "polarizationInversion": false
+                }
+            },
+            "adr": true,
+            "dr": 5,
+            "fCnt": 115,
+            "fPort": 1,
+            "data": "AWcBNwJojwMCAUkEZSs6BHEAAAAAAAA=",
+            "objectJSON": "null",
+            "tags": {},
+            "confirmedUplink": false,
+            "devAddr": "AYaE3g==",
+            "publishedAt": "2024-04-17T09:36:32.930001353Z",
+            "deviceProfileID": "a5f5e16d-7c26-4e42-9917-10c80166c604",
+            "deviceProfileName": "ABP_AS923"
+        }
+    },
+    {
+        "type": "up",
+        "payload": {
+            "applicationID": "54",
+            "applicationName": "Batdau",
+            "deviceName": "Hello1",
+            "devEUI": "Iembo25a5Eg=",
+            "rxInfo": [
+                {
+                    "gatewayID": "rB8J//4Aqwo=",
+                    "time": "2024-04-17T09:34:46.119580Z",
+                    "timeSinceGPSEpoch": "1397381704.119s",
+                    "rssi": -68,
+                    "loRaSNR": 9.8,
+                    "channel": 7,
+                    "rfChain": 1,
+                    "board": 0,
+                    "antenna": 0,
+                    "location": {
+                        "latitude": 16.07524,
+                        "longitude": 108.15341,
+                        "altitude": 66,
+                        "source": "UNKNOWN",
+                        "accuracy": 0
+                    },
+                    "fineTimestampType": "NONE",
+                    "context": "H0ildA==",
+                    "uplinkID": "oYqLsNGURb6CEtk639lM/w==",
+                    "crcStatus": "CRC_OK"
+                }
+            ],
+            "txInfo": {
+                "frequency": 922800000,
+                "modulation": "LORA",
+                "loRaModulationInfo": {
+                    "bandwidth": 125,
+                    "spreadingFactor": 7,
+                    "codeRate": "4/5",
+                    "polarizationInversion": false
+                }
+            },
+            "adr": true,
+            "dr": 5,
+            "fCnt": 114,
+            "fPort": 1,
+            "data": "AWcBOAJokAMCAUkEZSs9BHEAAAAAAAA=",
+            "objectJSON": "null",
+            "tags": {},
+            "confirmedUplink": false,
+            "devAddr": "AYaE3g==",
+            "publishedAt": "2024-04-17T09:36:30.676309244Z",
+            "deviceProfileID": "a5f5e16d-7c26-4e42-9917-10c80166c604",
+            "deviceProfileName": "ABP_AS923"
+        }
+    },
+    {
+        "type": "up",
+        "payload": {
+            "applicationID": "54",
+            "applicationName": "Batdau",
+            "deviceName": "Hello1",
+            "devEUI": "Iembo25a5Eg=",
+            "rxInfo": [
+                {
+                    "gatewayID": "rB8J//4G/PI=",
+                    "time": "2024-04-17T09:34:43.864908Z",
+                    "timeSinceGPSEpoch": "1397381701.865s",
+                    "rssi": -71,
+                    "loRaSNR": 7.8,
+                    "channel": 6,
+                    "rfChain": 1,
+                    "board": 0,
+                    "antenna": 0,
+                    "location": {
+                        "latitude": 16.07522,
+                        "longitude": 108.15403,
+                        "altitude": 31,
+                        "source": "UNKNOWN",
+                        "accuracy": 0
+                    },
+                    "fineTimestampType": "NONE",
+                    "context": "vHErPA==",
+                    "uplinkID": "AhslXl13TTS12to6Chac8w==",
+                    "crcStatus": "CRC_OK"
+                }
+            ],
+            "txInfo": {
+                "frequency": 922600000,
+                "modulation": "LORA",
+                "loRaModulationInfo": {
+                    "bandwidth": 125,
+                    "spreadingFactor": 7,
+                    "codeRate": "4/5",
+                    "polarizationInversion": false
+                }
+            },
+            "adr": true,
+            "dr": 5,
+            "fCnt": 113,
+            "fPort": 1,
+            "data": "AWcBNwJojwMCAUkEZStHBHEAAAAAAAA=",
+            "objectJSON": "null",
+            "tags": {},
+            "confirmedUplink": false,
+            "devAddr": "AYaE3g==",
+            "publishedAt": "2024-04-17T09:36:28.443717242Z",
+            "deviceProfileID": "a5f5e16d-7c26-4e42-9917-10c80166c604",
+            "deviceProfileName": "ABP_AS923"
+        }
+    },
+    {
+        "type": "up",
+        "payload": {
+            "applicationID": "54",
+            "applicationName": "Batdau",
+            "deviceName": "Hello1",
+            "devEUI": "Iembo25a5Eg=",
+            "rxInfo": [
+                {
+                    "gatewayID": "rB8J//4G/PI=",
+                    "time": "2024-04-17T09:34:41.610260Z",
+                    "timeSinceGPSEpoch": "1397381699.610s",
+                    "rssi": -71,
+                    "loRaSNR": 6.8,
+                    "channel": 5,
+                    "rfChain": 1,
+                    "board": 0,
+                    "antenna": 0,
+                    "location": {
+                        "latitude": 16.07522,
+                        "longitude": 108.15403,
+                        "altitude": 31,
+                        "source": "UNKNOWN",
+                        "accuracy": 0
+                    },
+                    "fineTimestampType": "NONE",
+                    "context": "vE7EBA==",
+                    "uplinkID": "BDNexUPvQuqvjzHOAdf3Eg==",
+                    "crcStatus": "CRC_OK"
+                },
+                {
+                    "gatewayID": "rB8J//4Aqwo=",
+                    "time": "2024-04-17T09:34:41.610258Z",
+                    "timeSinceGPSEpoch": "1397381699.610s",
+                    "rssi": -70,
+                    "loRaSNR": 9.3,
+                    "channel": 5,
+                    "rfChain": 1,
+                    "board": 0,
+                    "antenna": 0,
+                    "location": {
+                        "latitude": 16.07524,
+                        "longitude": 108.15341,
+                        "altitude": 66,
+                        "source": "UNKNOWN",
+                        "accuracy": 0
+                    },
+                    "fineTimestampType": "NONE",
+                    "context": "HwPW7A==",
+                    "uplinkID": "MrxxWTBUR8KT5SQII8Iffw==",
+                    "crcStatus": "CRC_OK"
+                }
+            ],
+            "txInfo": {
+                "frequency": 922400000,
+                "modulation": "LORA",
+                "loRaModulationInfo": {
+                    "bandwidth": 125,
+                    "spreadingFactor": 7,
+                    "codeRate": "4/5",
+                    "polarizationInversion": false
+                }
+            },
+            "adr": true,
+            "dr": 5,
+            "fCnt": 112,
+            "fPort": 1,
+            "data": "AWcBNwJojgMCAUkEZStNBHEAAAAAAAA=",
+            "objectJSON": "null",
+            "tags": {},
+            "confirmedUplink": false,
+            "devAddr": "AYaE3g==",
+            "publishedAt": "2024-04-17T09:36:26.160732085Z",
+            "deviceProfileID": "a5f5e16d-7c26-4e42-9917-10c80166c604",
+            "deviceProfileName": "ABP_AS923"
+        }
+    },
+    {
+        "type": "up",
+        "payload": {
+            "applicationID": "54",
+            "applicationName": "Batdau",
+            "deviceName": "Hello1",
+            "devEUI": "Iembo25a5Eg=",
+            "rxInfo": [
+                {
+                    "gatewayID": "rB8J//4G/PI=",
+                    "time": "2024-04-17T09:34:37.100875Z",
+                    "timeSinceGPSEpoch": "1397381695.101s",
+                    "rssi": -70,
+                    "loRaSNR": 8,
+                    "channel": 3,
+                    "rfChain": 0,
+                    "board": 0,
+                    "antenna": 0,
+                    "location": {
+                        "latitude": 16.07518,
+                        "longitude": 108.15406,
+                        "altitude": 18,
+                        "source": "UNKNOWN",
+                        "accuracy": 0
+                    },
+                    "fineTimestampType": "NONE",
+                    "context": "vAn1Ow==",
+                    "uplinkID": "ny2g8o6JTJ+2hdgEMUJs+Q==",
+                    "crcStatus": "CRC_OK"
+                }
+            ],
+            "txInfo": {
+                "frequency": 922000000,
+                "modulation": "LORA",
+                "loRaModulationInfo": {
+                    "bandwidth": 125,
+                    "spreadingFactor": 7,
+                    "codeRate": "4/5",
+                    "polarizationInversion": false
+                }
+            },
+            "adr": true,
+            "dr": 5,
+            "fCnt": 110,
+            "fPort": 1,
+            "data": "AWcBNwJojgMCAUkEZStZBHEAAAAAAAA=",
+            "objectJSON": "null",
+            "tags": {},
+            "confirmedUplink": false,
+            "devAddr": "AYaE3g==",
+            "publishedAt": "2024-04-17T09:36:21.668912258Z",
+            "deviceProfileID": "a5f5e16d-7c26-4e42-9917-10c80166c604",
+            "deviceProfileName": "ABP_AS923"
+        }
+    },
+    {
+        "type": "up",
+        "payload": {
+            "applicationID": "54",
+            "applicationName": "Batdau",
+            "deviceName": "Hello1",
+            "devEUI": "Iembo25a5Eg=",
+            "rxInfo": [
+                {
+                    "gatewayID": "rB8J//4Aqwo=",
+                    "time": "2024-04-17T09:34:34.843512Z",
+                    "timeSinceGPSEpoch": "1397381692.843s",
+                    "rssi": -61,
+                    "loRaSNR": 7.5,
+                    "channel": 2,
+                    "rfChain": 0,
+                    "board": 0,
+                    "antenna": 0,
+                    "location": {
+                        "latitude": 16.07524,
+                        "longitude": 108.15341,
+                        "altitude": 66,
+                        "source": "UNKNOWN",
+                        "accuracy": 0
+                    },
+                    "fineTimestampType": "NONE",
+                    "context": "HpyWUw==",
+                    "uplinkID": "w5SCnLsrSi+JkKCsTKLapQ==",
+                    "crcStatus": "CRC_OK"
+                }
+            ],
+            "txInfo": {
+                "frequency": 921800000,
+                "modulation": "LORA",
+                "loRaModulationInfo": {
+                    "bandwidth": 125,
+                    "spreadingFactor": 7,
+                    "codeRate": "4/5",
+                    "polarizationInversion": false
+                }
+            },
+            "adr": true,
+            "dr": 5,
+            "fCnt": 109,
+            "fPort": 1,
+            "data": "AWcBNwJojgMCAUkEZSteBHEAAAAAAAA=",
+            "objectJSON": "null",
+            "tags": {},
+            "confirmedUplink": false,
+            "devAddr": "AYaE3g==",
+            "publishedAt": "2024-04-17T09:36:19.430328266Z",
+            "deviceProfileID": "a5f5e16d-7c26-4e42-9917-10c80166c604",
+            "deviceProfileName": "ABP_AS923"
+        }
+    },
+    {
+        "type": "up",
+        "payload": {
+            "applicationID": "54",
+            "applicationName": "Batdau",
+            "deviceName": "Hello1",
+            "devEUI": "Iembo25a5Eg=",
+            "rxInfo": [
+                {
+                    "gatewayID": "rB8J//4G/PI=",
+                    "time": "2024-04-17T09:34:32.588867Z",
+                    "timeSinceGPSEpoch": "1397381690.589s",
+                    "rssi": -68,
+                    "loRaSNR": 8.8,
+                    "channel": 1,
+                    "rfChain": 0,
+                    "board": 0,
+                    "antenna": 0,
+                    "location": {
+                        "latitude": 16.07518,
+                        "longitude": 108.15406,
+                        "altitude": 18,
+                        "source": "UNKNOWN",
+                        "accuracy": 0
+                    },
+                    "fineTimestampType": "NONE",
+                    "context": "u8UcMw==",
+                    "uplinkID": "V914crEgSWekm+poW5eaJQ==",
+                    "crcStatus": "CRC_OK"
+                }
+            ],
+            "txInfo": {
+                "frequency": 921600000,
+                "modulation": "LORA",
+                "loRaModulationInfo": {
+                    "bandwidth": 125,
+                    "spreadingFactor": 7,
+                    "codeRate": "4/5",
+                    "polarizationInversion": false
+                }
+            },
+            "adr": true,
+            "dr": 5,
+            "fCnt": 108,
+            "fPort": 1,
+            "data": "AWcBNQJojwMCAUkEZStdBHEAAAAAAAA=",
+            "objectJSON": "null",
+            "tags": {},
+            "confirmedUplink": false,
+            "devAddr": "AYaE3g==",
+            "publishedAt": "2024-04-17T09:36:17.147650835Z",
+            "deviceProfileID": "a5f5e16d-7c26-4e42-9917-10c80166c604",
+            "deviceProfileName": "ABP_AS923"
+        }
+    },
+    {
+        "type": "up",
+        "payload": {
+            "applicationID": "54",
+            "applicationName": "Batdau",
+            "deviceName": "Hello1",
+            "devEUI": "Iembo25a5Eg=",
+            "rxInfo": [
+                {
+                    "gatewayID": "rB8J//4Aqwo=",
+                    "time": "2024-04-17T09:34:30.334232Z",
+                    "timeSinceGPSEpoch": "1397381688.334s",
+                    "rssi": -66,
+                    "loRaSNR": 9.8,
+                    "channel": 0,
+                    "rfChain": 0,
+                    "board": 0,
+                    "antenna": 0,
+                    "location": {
+                        "latitude": 16.07524,
+                        "longitude": 108.15341,
+                        "altitude": 66,
+                        "source": "UNKNOWN",
+                        "accuracy": 0
+                    },
+                    "fineTimestampType": "NONE",
+                    "context": "HlfH8w==",
+                    "uplinkID": "78UQdMJvTnyWZV+PhQuOdg==",
+                    "crcStatus": "CRC_OK"
+                },
+                {
+                    "gatewayID": "rB8J//4P1ik=",
+                    "time": "2024-04-17T09:34:30.334241Z",
+                    "timeSinceGPSEpoch": "1397381688.334s",
+                    "rssi": -111,
+                    "loRaSNR": -3.5,
+                    "channel": 0,
+                    "rfChain": 0,
+                    "board": 0,
+                    "antenna": 0,
+                    "location": {
+                        "latitude": 16.06817,
+                        "longitude": 108.15443,
+                        "altitude": 31,
+                        "source": "UNKNOWN",
+                        "accuracy": 0
+                    },
+                    "fineTimestampType": "NONE",
+                    "context": "zdaOYA==",
+                    "uplinkID": "z+SgxjgnSl2E1TDr49trRA==",
+                    "crcStatus": "CRC_OK"
+                }
+            ],
+            "txInfo": {
+                "frequency": 921400000,
+                "modulation": "LORA",
+                "loRaModulationInfo": {
+                    "bandwidth": 125,
+                    "spreadingFactor": 7,
+                    "codeRate": "4/5",
+                    "polarizationInversion": false
+                }
+            },
+            "adr": true,
+            "dr": 5,
+            "fCnt": 107,
+            "fPort": 1,
+            "data": "AWcBNwJokAMCAUkEZStnBHEAAAAAAAA=",
+            "objectJSON": "null",
+            "tags": {},
+            "confirmedUplink": false,
+            "devAddr": "AYaE3g==",
+            "publishedAt": "2024-04-17T09:36:14.930338275Z",
+            "deviceProfileID": "a5f5e16d-7c26-4e42-9917-10c80166c604",
+            "deviceProfileName": "ABP_AS923"
+        }
+    },
+    {
+        "type": "up",
+        "payload": {
+            "applicationID": "54",
+            "applicationName": "Batdau",
+            "deviceName": "Hello1",
+            "devEUI": "Iembo25a5Eg=",
+            "rxInfo": [
+                {
+                    "gatewayID": "rB8J//4G/PI=",
+                    "time": "2024-04-17T09:34:28.079477Z",
+                    "timeSinceGPSEpoch": "1397381686.079s",
+                    "rssi": -71,
+                    "loRaSNR": 7.8,
+                    "channel": 7,
+                    "rfChain": 1,
+                    "board": 0,
+                    "antenna": 0,
+                    "location": {
+                        "latitude": 16.07518,
+                        "longitude": 108.15406,
+                        "altitude": 18,
+                        "source": "UNKNOWN",
+                        "accuracy": 0
+                    },
+                    "fineTimestampType": "NONE",
+                    "context": "u4BNZA==",
+                    "uplinkID": "GSTNkCrpQwOes59FTxVFrQ==",
+                    "crcStatus": "CRC_OK"
+                }
+            ],
+            "txInfo": {
+                "frequency": 922800000,
+                "modulation": "LORA",
+                "loRaModulationInfo": {
+                    "bandwidth": 125,
+                    "spreadingFactor": 7,
+                    "codeRate": "4/5",
+                    "polarizationInversion": false
+                }
+            },
+            "adr": true,
+            "dr": 5,
+            "fCnt": 106,
+            "fPort": 1,
+            "data": "AWcBNgJokgMCAUkEZSt0BHEAAAAAAAA=",
+            "objectJSON": "null",
+            "tags": {},
+            "confirmedUplink": false,
+            "devAddr": "AYaE3g==",
+            "publishedAt": "2024-04-17T09:36:12.638358706Z",
+            "deviceProfileID": "a5f5e16d-7c26-4e42-9917-10c80166c604",
+            "deviceProfileName": "ABP_AS923"
+        }
+    },
+    {
+        "type": "up",
+        "payload": {
+            "applicationID": "54",
+            "applicationName": "Batdau",
+            "deviceName": "Hello1",
+            "devEUI": "Iembo25a5Eg=",
+            "rxInfo": [
+                {
+                    "gatewayID": "rB8J//4Aqwo=",
+                    "time": "2024-04-17T09:34:25.824808Z",
+                    "timeSinceGPSEpoch": "1397381683.824s",
+                    "rssi": -68,
+                    "loRaSNR": 9.5,
+                    "channel": 6,
+                    "rfChain": 1,
+                    "board": 0,
+                    "antenna": 0,
+                    "location": {
+                        "latitude": 16.07524,
+                        "longitude": 108.15341,
+                        "altitude": 66,
+                        "source": "UNKNOWN",
+                        "accuracy": 0
+                    },
+                    "fineTimestampType": "NONE",
+                    "context": "HhL5BA==",
+                    "uplinkID": "xVtiW84mSIS8974a9uBQnw==",
+                    "crcStatus": "CRC_OK"
+                }
+            ],
+            "txInfo": {
+                "frequency": 922600000,
+                "modulation": "LORA",
+                "loRaModulationInfo": {
+                    "bandwidth": 125,
+                    "spreadingFactor": 7,
+                    "codeRate": "4/5",
+                    "polarizationInversion": false
+                }
+            },
+            "adr": true,
+            "dr": 5,
+            "fCnt": 105,
+            "fPort": 1,
+            "data": "AWcBOAJokgMCAUkEZSuTBHEAAAAAAAA=",
+            "objectJSON": "null",
+            "tags": {},
+            "confirmedUplink": false,
+            "devAddr": "AYaE3g==",
+            "publishedAt": "2024-04-17T09:36:10.405135933Z",
+            "deviceProfileID": "a5f5e16d-7c26-4e42-9917-10c80166c604",
+            "deviceProfileName": "ABP_AS923"
+        }
+    },
+    {
+        "type": "up",
+        "payload": {
+            "applicationID": "54",
+            "applicationName": "Batdau",
+            "deviceName": "Hello1",
+            "devEUI": "Iembo25a5Eg=",
+            "rxInfo": [
+                {
+                    "gatewayID": "rB8J//4G/PI=",
+                    "time": "2024-04-17T09:34:23.570111Z",
+                    "timeSinceGPSEpoch": "1397381681.570s",
+                    "rssi": -74,
+                    "loRaSNR": 8.5,
+                    "channel": 5,
+                    "rfChain": 1,
+                    "board": 0,
+                    "antenna": 0,
+                    "location": {
+                        "latitude": 16.07518,
+                        "longitude": 108.15406,
+                        "altitude": 18,
+                        "source": "UNKNOWN",
+                        "accuracy": 0
+                    },
+                    "fineTimestampType": "NONE",
+                    "context": "uzt+rA==",
+                    "uplinkID": "HWmf4RwiQROeunPcse1LtA==",
+                    "crcStatus": "CRC_OK"
+                },
+                {
+                    "gatewayID": "rB8J//4Aqwo=",
+                    "time": "2024-04-17T09:34:23.570112Z",
+                    "timeSinceGPSEpoch": "1397381681.570s",
+                    "rssi": -70,
+                    "loRaSNR": 11,
+                    "channel": 5,
+                    "rfChain": 1,
+                    "board": 0,
+                    "antenna": 0,
+                    "location": {
+                        "latitude": 16.07524,
+                        "longitude": 108.15341,
+                        "altitude": 66,
+                        "source": "UNKNOWN",
+                        "accuracy": 0
+                    },
+                    "fineTimestampType": "NONE",
+                    "context": "HfCRnA==",
+                    "uplinkID": "pytvZsNkSHKwzaAmaIbDiQ==",
+                    "crcStatus": "CRC_OK"
+                }
+            ],
+            "txInfo": {
+                "frequency": 922400000,
+                "modulation": "LORA",
+                "loRaModulationInfo": {
+                    "bandwidth": 125,
+                    "spreadingFactor": 7,
+                    "codeRate": "4/5",
+                    "polarizationInversion": false
+                }
+            },
+            "adr": true,
+            "dr": 5,
+            "fCnt": 104,
+            "fPort": 1,
+            "data": "AWcBNwJokQMCAUkEZSt/BHEAAAAAAAA=",
+            "objectJSON": "null",
+            "tags": {},
+            "confirmedUplink": false,
+            "devAddr": "AYaE3g==",
+            "publishedAt": "2024-04-17T09:36:08.122273501Z",
+            "deviceProfileID": "a5f5e16d-7c26-4e42-9917-10c80166c604",
+            "deviceProfileName": "ABP_AS923"
+        }
+    },
+    {
+        "type": "up",
+        "payload": {
+            "applicationID": "54",
+            "applicationName": "Batdau",
+            "deviceName": "Hello1",
+            "devEUI": "Iembo25a5Eg=",
+            "rxInfo": [
+                {
+                    "gatewayID": "rB8J//4G/PI=",
+                    "time": "2024-04-17T09:34:19.060783Z",
+                    "timeSinceGPSEpoch": "1397381677.061s",
+                    "rssi": -71,
+                    "loRaSNR": 8.8,
+                    "channel": 3,
+                    "rfChain": 0,
+                    "board": 0,
+                    "antenna": 0,
+                    "location": {
+                        "latitude": 16.07518,
+                        "longitude": 108.15406,
+                        "altitude": 18,
+                        "source": "UNKNOWN",
+                        "accuracy": 0
+                    },
+                    "fineTimestampType": "NONE",
+                    "context": "uvawGw==",
+                    "uplinkID": "1A28Jw/ZTtmpSwBPUpBTzA==",
+                    "crcStatus": "CRC_OK"
+                }
+            ],
+            "txInfo": {
+                "frequency": 922000000,
+                "modulation": "LORA",
+                "loRaModulationInfo": {
+                    "bandwidth": 125,
+                    "spreadingFactor": 7,
+                    "codeRate": "4/5",
+                    "polarizationInversion": false
+                }
+            },
+            "adr": true,
+            "dr": 5,
+            "fCnt": 102,
+            "fPort": 1,
+            "data": "AWcBNgJokAMCAUkEZSucBHEAAAAAAAA=",
+            "objectJSON": "null",
+            "tags": {},
+            "confirmedUplink": false,
+            "devAddr": "AYaE3g==",
+            "publishedAt": "2024-04-17T09:36:03.613666624Z",
+            "deviceProfileID": "a5f5e16d-7c26-4e42-9917-10c80166c604",
+            "deviceProfileName": "ABP_AS923"
+        }
+    },
+    {
+        "type": "up",
+        "payload": {
+            "applicationID": "54",
+            "applicationName": "Batdau",
+            "deviceName": "Hello1",
+            "devEUI": "Iembo25a5Eg=",
+            "rxInfo": [
+                {
+                    "gatewayID": "rB8J//4Aqwo=",
+                    "time": "2024-04-17T09:34:16.803478Z",
+                    "timeSinceGPSEpoch": "1397381674.803s",
+                    "rssi": -69,
+                    "loRaSNR": 8,
+                    "channel": 2,
+                    "rfChain": 0,
+                    "board": 0,
+                    "antenna": 0,
+                    "location": {
+                        "latitude": 16.07524,
+                        "longitude": 108.15341,
+                        "altitude": 66,
+                        "source": "UNKNOWN",
+                        "accuracy": 0
+                    },
+                    "fineTimestampType": "NONE",
+                    "context": "HYlRcw==",
+                    "uplinkID": "P/YXOzpITLamJa572Y+65w==",
+                    "crcStatus": "CRC_OK"
+                }
+            ],
+            "txInfo": {
+                "frequency": 921800000,
+                "modulation": "LORA",
+                "loRaModulationInfo": {
+                    "bandwidth": 125,
+                    "spreadingFactor": 7,
+                    "codeRate": "4/5",
+                    "polarizationInversion": false
+                }
+            },
+            "adr": true,
+            "dr": 5,
+            "fCnt": 101,
+            "fPort": 1,
+            "data": "AWcBNgJokAMCAUkEZSulBHEAAAAAAAA=",
+            "objectJSON": "null",
+            "tags": {},
+            "confirmedUplink": false,
+            "devAddr": "AYaE3g==",
+            "publishedAt": "2024-04-17T09:36:01.421446494Z",
+            "deviceProfileID": "a5f5e16d-7c26-4e42-9917-10c80166c604",
+            "deviceProfileName": "ABP_AS923"
+        }
+    },
+    {
+        "type": "up",
+        "payload": {
+            "applicationID": "54",
+            "applicationName": "Batdau",
+            "deviceName": "Hello1",
+            "devEUI": "Iembo25a5Eg=",
+            "rxInfo": [
+                {
+                    "gatewayID": "rB8J//4G/PI=",
+                    "time": "2024-04-17T09:34:14.548831Z",
+                    "timeSinceGPSEpoch": "1397381672.549s",
+                    "rssi": -71,
+                    "loRaSNR": 8.5,
+                    "channel": 1,
+                    "rfChain": 0,
+                    "board": 0,
+                    "antenna": 0,
+                    "location": {
+                        "latitude": 16.07518,
+                        "longitude": 108.15406,
+                        "altitude": 18,
+                        "source": "UNKNOWN",
+                        "accuracy": 0
+                    },
+                    "fineTimestampType": "NONE",
+                    "context": "urHXSw==",
+                    "uplinkID": "P5iWZDfQT5WiMjkkL/SGyA==",
+                    "crcStatus": "CRC_OK"
+                }
+            ],
+            "txInfo": {
+                "frequency": 921600000,
+                "modulation": "LORA",
+                "loRaModulationInfo": {
+                    "bandwidth": 125,
+                    "spreadingFactor": 7,
+                    "codeRate": "4/5",
+                    "polarizationInversion": false
+                }
+            },
+            "adr": true,
+            "dr": 5,
+            "fCnt": 100,
+            "fPort": 1,
+            "data": "AWcBNQJokAMCAUkEZSupBHEAAAAAAAA=",
+            "objectJSON": "null",
+            "tags": {},
+            "confirmedUplink": false,
+            "devAddr": "AYaE3g==",
+            "publishedAt": "2024-04-17T09:35:59.105191463Z",
+            "deviceProfileID": "a5f5e16d-7c26-4e42-9917-10c80166c604",
+            "deviceProfileName": "ABP_AS923"
+        }
+    },
+    {
+        "type": "up",
+        "payload": {
+            "applicationID": "54",
+            "applicationName": "Batdau",
+            "deviceName": "Hello1",
+            "devEUI": "Iembo25a5Eg=",
+            "rxInfo": [
+                {
+                    "gatewayID": "rB8J//4G/PI=",
+                    "time": "2024-04-17T09:34:12.294158Z",
+                    "timeSinceGPSEpoch": "1397381670.294s",
+                    "rssi": -71,
+                    "loRaSNR": 12,
+                    "channel": 0,
+                    "rfChain": 0,
+                    "board": 0,
+                    "antenna": 0,
+                    "location": {
+                        "latitude": 16.07518,
+                        "longitude": 108.15406,
+                        "altitude": 18,
+                        "source": "UNKNOWN",
+                        "accuracy": 0
+                    },
+                    "fineTimestampType": "NONE",
+                    "context": "uo9v+w==",
+                    "uplinkID": "oR27s1ZNRlGJJD5JYTlWAg==",
+                    "crcStatus": "CRC_OK"
+                },
+                {
+                    "gatewayID": "rB8J//4P1ik=",
+                    "time": "2024-04-17T09:34:12.294069Z",
+                    "timeSinceGPSEpoch": "1397381670.293s",
+                    "rssi": -112,
+                    "loRaSNR": -7.8,
+                    "channel": 0,
+                    "rfChain": 0,
+                    "board": 0,
+                    "antenna": 0,
+                    "location": {
+                        "latitude": 16.06817,
+                        "longitude": 108.15443,
+                        "altitude": 31,
+                        "source": "UNKNOWN",
+                        "accuracy": 0
+                    },
+                    "fineTimestampType": "NONE",
+                    "context": "zMNI8w==",
+                    "uplinkID": "0WQnB00QQSa19vFO4jO3TA==",
+                    "crcStatus": "CRC_OK"
+                },
+                {
+                    "gatewayID": "rB8J//4Aqwo=",
+                    "time": "2024-04-17T09:34:12.294158Z",
+                    "timeSinceGPSEpoch": "1397381670.294s",
+                    "rssi": -74,
+                    "loRaSNR": 11,
+                    "channel": 0,
+                    "rfChain": 0,
+                    "board": 0,
+                    "antenna": 0,
+                    "location": {
+                        "latitude": 16.07524,
+                        "longitude": 108.15341,
+                        "altitude": 66,
+                        "source": "UNKNOWN",
+                        "accuracy": 0
+                    },
+                    "fineTimestampType": "NONE",
+                    "context": "HUSC6w==",
+                    "uplinkID": "AkdHaCbJTyiS6EtDnYD8hw==",
+                    "crcStatus": "CRC_OK"
+                }
+            ],
+            "txInfo": {
+                "frequency": 921400000,
+                "modulation": "LORA",
+                "loRaModulationInfo": {
+                    "bandwidth": 125,
+                    "spreadingFactor": 7,
+                    "codeRate": "4/5",
+                    "polarizationInversion": false
+                }
+            },
+            "adr": true,
+            "dr": 5,
+            "fCnt": 99,
+            "fPort": 1,
+            "data": "AWcBNAJokAMCAUkEZSucBHEAAAAAAAA=",
+            "objectJSON": "null",
+            "tags": {},
+            "confirmedUplink": false,
+            "devAddr": "AYaE3g==",
+            "publishedAt": "2024-04-17T09:35:56.846285010Z",
+            "deviceProfileID": "a5f5e16d-7c26-4e42-9917-10c80166c604",
+            "deviceProfileName": "ABP_AS923"
+        }
+    },
+    {
+        "type": "up",
+        "payload": {
+            "applicationID": "54",
+            "applicationName": "Batdau",
+            "deviceName": "Hello1",
+            "devEUI": "Iembo25a5Eg=",
+            "rxInfo": [
+                {
+                    "gatewayID": "rB8J//4Aqwo=",
+                    "time": "2024-04-17T09:34:07.784654Z",
+                    "timeSinceGPSEpoch": "1397381665.784s",
+                    "rssi": -69,
+                    "loRaSNR": 8.5,
+                    "channel": 6,
+                    "rfChain": 1,
+                    "board": 0,
+                    "antenna": 0,
+                    "location": {
+                        "latitude": 16.07524,
+                        "longitude": 108.15341,
+                        "altitude": 66,
+                        "source": "UNKNOWN",
+                        "accuracy": 0
+                    },
+                    "fineTimestampType": "NONE",
+                    "context": "HP+zrA==",
+                    "uplinkID": "nH+EXLZ4SAKazy6Gbgqcjw==",
+                    "crcStatus": "CRC_OK"
+                }
+            ],
+            "txInfo": {
+                "frequency": 922600000,
+                "modulation": "LORA",
+                "loRaModulationInfo": {
+                    "bandwidth": 125,
+                    "spreadingFactor": 7,
+                    "codeRate": "4/5",
+                    "polarizationInversion": false
+                }
+            },
+            "adr": true,
+            "dr": 5,
+            "fCnt": 97,
+            "fPort": 1,
+            "data": "AWcBNgJokAMCAUkEZSvJBHEAAAAAAAA=",
+            "objectJSON": "null",
+            "tags": {},
+            "confirmedUplink": false,
+            "devAddr": "AYaE3g==",
+            "publishedAt": "2024-04-17T09:35:52.339124783Z",
+            "deviceProfileID": "a5f5e16d-7c26-4e42-9917-10c80166c604",
+            "deviceProfileName": "ABP_AS923"
+        }
+    },
+    {
+        "type": "up",
+        "payload": {
+            "applicationID": "54",
+            "applicationName": "Batdau",
+            "deviceName": "Hello1",
+            "devEUI": "Iembo25a5Eg=",
+            "rxInfo": [
+                {
+                    "gatewayID": "rB8J//4G/PI=",
+                    "time": "2024-04-17T09:34:05.530018Z",
+                    "timeSinceGPSEpoch": "1397381663.530s",
+                    "rssi": -72,
+                    "loRaSNR": 7.3,
+                    "channel": 5,
+                    "rfChain": 1,
+                    "board": 0,
+                    "antenna": 0,
+                    "location": {
+                        "latitude": 16.07511,
+                        "longitude": 108.15408,
+                        "altitude": 6,
+                        "source": "UNKNOWN",
+                        "accuracy": 0
+                    },
+                    "fineTimestampType": "NONE",
+                    "context": "uig5jA==",
+                    "uplinkID": "XmrcrE42R1yHRWCzsYGNmQ==",
+                    "crcStatus": "CRC_OK"
+                },
+                {
+                    "gatewayID": "rB8J//4Aqwo=",
+                    "time": "2024-04-17T09:34:05.530014Z",
+                    "timeSinceGPSEpoch": "1397381663.530s",
+                    "rssi": -70,
+                    "loRaSNR": 10.5,
+                    "channel": 5,
+                    "rfChain": 1,
+                    "board": 0,
+                    "antenna": 0,
+                    "location": {
+                        "latitude": 16.07524,
+                        "longitude": 108.15341,
+                        "altitude": 66,
+                        "source": "UNKNOWN",
+                        "accuracy": 0
+                    },
+                    "fineTimestampType": "NONE",
+                    "context": "HN1MfA==",
+                    "uplinkID": "ZG6Lh7nGT3++tkh1FaP4WA==",
+                    "crcStatus": "CRC_OK"
+                }
+            ],
+            "txInfo": {
+                "frequency": 922400000,
+                "modulation": "LORA",
+                "loRaModulationInfo": {
+                    "bandwidth": 125,
+                    "spreadingFactor": 7,
+                    "codeRate": "4/5",
+                    "polarizationInversion": false
+                }
+            },
+            "adr": true,
+            "dr": 5,
+            "fCnt": 96,
+            "fPort": 1,
+            "data": "AWcBNgJokAMCAUkEZSvQBHEAAAAAAAA=",
+            "objectJSON": "null",
+            "tags": {},
+            "confirmedUplink": false,
+            "devAddr": "AYaE3g==",
+            "publishedAt": "2024-04-17T09:35:50.109634287Z",
+            "deviceProfileID": "a5f5e16d-7c26-4e42-9917-10c80166c604",
+            "deviceProfileName": "ABP_AS923"
+        }
+    },
+    {
+        "type": "up",
+        "payload": {
+            "applicationID": "54",
+            "applicationName": "Batdau",
+            "deviceName": "Hello1",
+            "devEUI": "Iembo25a5Eg=",
+            "rxInfo": [
+                {
+                    "gatewayID": "rB8J//4Aqwo=",
+                    "time": "2024-04-17T09:34:01.020669Z",
+                    "timeSinceGPSEpoch": "1397381659.020s",
+                    "rssi": -71,
+                    "loRaSNR": 10.8,
+                    "channel": 3,
+                    "rfChain": 0,
+                    "board": 0,
+                    "antenna": 0,
+                    "location": {
+                        "latitude": 16.07524,
+                        "longitude": 108.15341,
+                        "altitude": 66,
+                        "source": "UNKNOWN",
+                        "accuracy": 0
+                    },
+                    "fineTimestampType": "NONE",
+                    "context": "HJh92w==",
+                    "uplinkID": "bNBaJ7cORWqEEMJIlMjlnQ==",
+                    "crcStatus": "CRC_OK"
+                }
+            ],
+            "txInfo": {
+                "frequency": 922000000,
+                "modulation": "LORA",
+                "loRaModulationInfo": {
+                    "bandwidth": 125,
+                    "spreadingFactor": 7,
+                    "codeRate": "4/5",
+                    "polarizationInversion": false
+                }
+            },
+            "adr": true,
+            "dr": 5,
+            "fCnt": 94,
+            "fPort": 1,
+            "data": "AWcBNAJokAMCAUkEZSveBHEAAAAAAAA=",
+            "objectJSON": "null",
+            "tags": {},
+            "confirmedUplink": false,
+            "devAddr": "AYaE3g==",
+            "publishedAt": "2024-04-17T09:35:45.579359358Z",
+            "deviceProfileID": "a5f5e16d-7c26-4e42-9917-10c80166c604",
+            "deviceProfileName": "ABP_AS923"
+        }
+    },
+    {
+        "type": "up",
+        "payload": {
+            "applicationID": "54",
+            "applicationName": "Batdau",
+            "deviceName": "Hello1",
+            "devEUI": "Iembo25a5Eg=",
+            "rxInfo": [
+                {
+                    "gatewayID": "rB8J//4G/PI=",
+                    "time": "2024-04-17T09:33:58.763354Z",
+                    "timeSinceGPSEpoch": "1397381656.763s",
+                    "rssi": -68,
+                    "loRaSNR": 7.8,
+                    "channel": 2,
+                    "rfChain": 0,
+                    "board": 0,
+                    "antenna": 0,
+                    "location": {
+                        "latitude": 16.07511,
+                        "longitude": 108.15408,
+                        "altitude": 6,
+                        "source": "UNKNOWN",
+                        "accuracy": 0
+                    },
+                    "fineTimestampType": "NONE",
+                    "context": "ucD5Qw==",
+                    "uplinkID": "XHFiRzT6S2ai8NbkJGKDgg==",
+                    "crcStatus": "CRC_OK"
+                }
+            ],
+            "txInfo": {
+                "frequency": 921800000,
+                "modulation": "LORA",
+                "loRaModulationInfo": {
+                    "bandwidth": 125,
+                    "spreadingFactor": 7,
+                    "codeRate": "4/5",
+                    "polarizationInversion": false
+                }
+            },
+            "adr": true,
+            "dr": 5,
+            "fCnt": 93,
+            "fPort": 1,
+            "data": "AWcBNQJokQMCAUkEZSvwBHEAAAAAAAA=",
+            "objectJSON": "null",
+            "tags": {},
+            "confirmedUplink": false,
+            "devAddr": "AYaE3g==",
+            "publishedAt": "2024-04-17T09:35:43.363198188Z",
+            "deviceProfileID": "a5f5e16d-7c26-4e42-9917-10c80166c604",
+            "deviceProfileName": "ABP_AS923"
+        }
+    },
+    {
+        "type": "up",
+        "payload": {
+            "applicationID": "54",
+            "applicationName": "Batdau",
+            "deviceName": "Hello1",
+            "devEUI": "Iembo25a5Eg=",
+            "rxInfo": [
+                {
+                    "gatewayID": "rB8J//4Aqwo=",
+                    "time": "2024-04-17T09:33:56.508708Z",
+                    "timeSinceGPSEpoch": "1397381654.508s",
+                    "rssi": -72,
+                    "loRaSNR": 9.8,
+                    "channel": 1,
+                    "rfChain": 0,
+                    "board": 0,
+                    "antenna": 0,
+                    "location": {
+                        "latitude": 16.07524,
+                        "longitude": 108.15341,
+                        "altitude": 66,
+                        "source": "UNKNOWN",
+                        "accuracy": 0
+                    },
+                    "fineTimestampType": "NONE",
+                    "context": "HFOlAw==",
+                    "uplinkID": "XVqoZrQwS6uIxHEVhnsOOw==",
+                    "crcStatus": "CRC_OK"
+                }
+            ],
+            "txInfo": {
+                "frequency": 921600000,
+                "modulation": "LORA",
+                "loRaModulationInfo": {
+                    "bandwidth": 125,
+                    "spreadingFactor": 7,
+                    "codeRate": "4/5",
+                    "polarizationInversion": false
+                }
+            },
+            "adr": true,
+            "dr": 5,
+            "fCnt": 92,
+            "fPort": 1,
+            "data": "AWcBMwJokAMCAUkEZSv+BHEAAAAAAAA=",
+            "objectJSON": "null",
+            "tags": {},
+            "confirmedUplink": false,
+            "devAddr": "AYaE3g==",
+            "publishedAt": "2024-04-17T09:35:41.059860202Z",
+            "deviceProfileID": "a5f5e16d-7c26-4e42-9917-10c80166c604",
+            "deviceProfileName": "ABP_AS923"
+        }
+    },
+    {
+        "type": "up",
+        "payload": {
+            "applicationID": "54",
+            "applicationName": "Batdau",
+            "deviceName": "Hello1",
+            "devEUI": "Iembo25a5Eg=",
+            "rxInfo": [
+                {
+                    "gatewayID": "rB8J//4G/PI=",
+                    "time": "2024-04-17T09:33:54.254018Z",
+                    "timeSinceGPSEpoch": "1397381652.254s",
+                    "rssi": -71,
+                    "loRaSNR": 8.8,
+                    "channel": 0,
+                    "rfChain": 0,
+                    "board": 0,
+                    "antenna": 0,
+                    "location": {
+                        "latitude": 16.07511,
+                        "longitude": 108.15408,
+                        "altitude": 6,
+                        "source": "UNKNOWN",
+                        "accuracy": 0
+                    },
+                    "fineTimestampType": "NONE",
+                    "context": "uXwqqw==",
+                    "uplinkID": "c5Pl20nURMKJVtA5OiOlzw==",
+                    "crcStatus": "CRC_OK"
+                }
+            ],
+            "txInfo": {
+                "frequency": 921400000,
+                "modulation": "LORA",
+                "loRaModulationInfo": {
+                    "bandwidth": 125,
+                    "spreadingFactor": 7,
+                    "codeRate": "4/5",
+                    "polarizationInversion": false
+                }
+            },
+            "adr": true,
+            "dr": 5,
+            "fCnt": 91,
+            "fPort": 1,
+            "data": "AWcBNgJokAMCAUkEZSwCBHEAAAAAAAA=",
+            "objectJSON": "null",
+            "tags": {},
+            "confirmedUplink": false,
+            "devAddr": "AYaE3g==",
+            "publishedAt": "2024-04-17T09:35:38.804732725Z",
+            "deviceProfileID": "a5f5e16d-7c26-4e42-9917-10c80166c604",
+            "deviceProfileName": "ABP_AS923"
+        }
+    },
+    {
+        "type": "up",
+        "payload": {
+            "applicationID": "54",
+            "applicationName": "Batdau",
+            "deviceName": "Hello1",
+            "devEUI": "Iembo25a5Eg=",
+            "rxInfo": [
+                {
+                    "gatewayID": "rB8J//4Aqwo=",
+                    "time": "2024-04-17T09:33:51.999277Z",
+                    "timeSinceGPSEpoch": "1397381649.999s",
+                    "rssi": -71,
+                    "loRaSNR": 9.8,
+                    "channel": 7,
+                    "rfChain": 1,
+                    "board": 0,
+                    "antenna": 0,
+                    "location": {
+                        "latitude": 16.07524,
+                        "longitude": 108.15341,
+                        "altitude": 66,
+                        "source": "UNKNOWN",
+                        "accuracy": 0
+                    },
+                    "fineTimestampType": "NONE",
+                    "context": "HA7WDA==",
+                    "uplinkID": "l8O5DPHeQXelD44CLjJslg==",
+                    "crcStatus": "CRC_OK"
+                }
+            ],
+            "txInfo": {
+                "frequency": 922800000,
+                "modulation": "LORA",
+                "loRaModulationInfo": {
+                    "bandwidth": 125,
+                    "spreadingFactor": 7,
+                    "codeRate": "4/5",
+                    "polarizationInversion": false
+                }
+            },
+            "adr": true,
+            "dr": 5,
+            "fCnt": 90,
+            "fPort": 1,
+            "data": "AWcBNAJokAMCAUkEZSwQBHEAAAAAAAA=",
+            "objectJSON": "null",
+            "tags": {},
+            "confirmedUplink": false,
+            "devAddr": "AYaE3g==",
+            "publishedAt": "2024-04-17T09:35:36.612522768Z",
+            "deviceProfileID": "a5f5e16d-7c26-4e42-9917-10c80166c604",
+            "deviceProfileName": "ABP_AS923"
+        }
+    },
+    {
+        "type": "up",
+        "payload": {
+            "applicationID": "54",
+            "applicationName": "Batdau",
+            "deviceName": "Hello1",
+            "devEUI": "Iembo25a5Eg=",
+            "rxInfo": [
+                {
+                    "gatewayID": "rB8J//4G/PI=",
+                    "time": "2024-04-17T09:33:49.744628Z",
+                    "timeSinceGPSEpoch": "1397381647.745s",
+                    "rssi": -70,
+                    "loRaSNR": 8.3,
+                    "channel": 6,
+                    "rfChain": 1,
+                    "board": 0,
+                    "antenna": 0,
+                    "location": {
+                        "latitude": 16.07511,
+                        "longitude": 108.15408,
+                        "altitude": 6,
+                        "source": "UNKNOWN",
+                        "accuracy": 0
+                    },
+                    "fineTimestampType": "NONE",
+                    "context": "uTdb3A==",
+                    "uplinkID": "Io3qD5yZSR+OsPkYqlkJVQ==",
+                    "crcStatus": "CRC_OK"
+                }
+            ],
+            "txInfo": {
+                "frequency": 922600000,
+                "modulation": "LORA",
+                "loRaModulationInfo": {
+                    "bandwidth": 125,
+                    "spreadingFactor": 7,
+                    "codeRate": "4/5",
+                    "polarizationInversion": false
+                }
+            },
+            "adr": true,
+            "dr": 5,
+            "fCnt": 89,
+            "fPort": 1,
+            "data": "AWcBNAJokAMCAUkEZSwZBHEAAAAAAAA=",
+            "objectJSON": "null",
+            "tags": {},
+            "confirmedUplink": false,
+            "devAddr": "AYaE3g==",
+            "publishedAt": "2024-04-17T09:35:34.295704670Z",
+            "deviceProfileID": "a5f5e16d-7c26-4e42-9917-10c80166c604",
+            "deviceProfileName": "ABP_AS923"
+        }
+    },
+    {
+        "type": "up",
+        "payload": {
+            "applicationID": "54",
+            "applicationName": "Batdau",
+            "deviceName": "Hello1",
+            "devEUI": "Iembo25a5Eg=",
+            "rxInfo": [
+                {
+                    "gatewayID": "rB8J//4G/PI=",
+                    "time": "2024-04-17T09:33:47.489940Z",
+                    "timeSinceGPSEpoch": "1397381645.490s",
+                    "rssi": -71,
+                    "loRaSNR": 8,
+                    "channel": 5,
+                    "rfChain": 1,
+                    "board": 0,
+                    "antenna": 0,
+                    "location": {
+                        "latitude": 16.07511,
+                        "longitude": 108.15408,
+                        "altitude": 6,
+                        "source": "UNKNOWN",
+                        "accuracy": 0
+                    },
+                    "fineTimestampType": "NONE",
+                    "context": "uRT0fA==",
+                    "uplinkID": "XWS+Gc0zTsuSJsDDTe3A1w==",
+                    "crcStatus": "CRC_OK"
+                },
+                {
+                    "gatewayID": "rB8J//4Aqwo=",
+                    "time": "2024-04-17T09:33:47.489940Z",
+                    "timeSinceGPSEpoch": "1397381645.489s",
+                    "rssi": -69,
+                    "loRaSNR": 10,
+                    "channel": 5,
+                    "rfChain": 1,
+                    "board": 0,
+                    "antenna": 0,
+                    "location": {
+                        "latitude": 16.07524,
+                        "longitude": 108.15341,
+                        "altitude": 66,
+                        "source": "UNKNOWN",
+                        "accuracy": 0
+                    },
+                    "fineTimestampType": "NONE",
+                    "context": "G8oHdA==",
+                    "uplinkID": "3/3im7eTQBaDUpUCIu90fQ==",
+                    "crcStatus": "CRC_OK"
+                }
+            ],
+            "txInfo": {
+                "frequency": 922400000,
+                "modulation": "LORA",
+                "loRaModulationInfo": {
+                    "bandwidth": 125,
+                    "spreadingFactor": 7,
+                    "codeRate": "4/5",
+                    "polarizationInversion": false
+                }
+            },
+            "adr": true,
+            "dr": 5,
+            "fCnt": 88,
+            "fPort": 1,
+            "data": "AWcBNAJokAMCAUkEZSw1BHEAAAAAAAA=",
+            "objectJSON": "null",
+            "tags": {},
+            "confirmedUplink": false,
+            "devAddr": "AYaE3g==",
+            "publishedAt": "2024-04-17T09:35:32.046245630Z",
+            "deviceProfileID": "a5f5e16d-7c26-4e42-9917-10c80166c604",
+            "deviceProfileName": "ABP_AS923"
+        }
+    },
+    {
+        "type": "up",
+        "payload": {
+            "applicationID": "54",
+            "applicationName": "Batdau",
+            "deviceName": "Hello1",
+            "devEUI": "Iembo25a5Eg=",
+            "rxInfo": [
+                {
+                    "gatewayID": "rB8J//4G/PI=",
+                    "time": "2024-04-17T09:33:42.980628Z",
+                    "timeSinceGPSEpoch": "1397381640.981s",
+                    "rssi": -72,
+                    "loRaSNR": 8.3,
+                    "channel": 3,
+                    "rfChain": 0,
+                    "board": 0,
+                    "antenna": 0,
+                    "location": {
+                        "latitude": 16.07511,
+                        "longitude": 108.15408,
+                        "altitude": 6,
+                        "source": "UNKNOWN",
+                        "accuracy": 0
+                    },
+                    "fineTimestampType": "NONE",
+                    "context": "uNAl+w==",
+                    "uplinkID": "70ltZWudRhyN10KSj+e5kw==",
+                    "crcStatus": "CRC_OK"
+                }
+            ],
+            "txInfo": {
+                "frequency": 922000000,
+                "modulation": "LORA",
+                "loRaModulationInfo": {
+                    "bandwidth": 125,
+                    "spreadingFactor": 7,
+                    "codeRate": "4/5",
+                    "polarizationInversion": false
+                }
+            },
+            "adr": true,
+            "dr": 5,
+            "fCnt": 86,
+            "fPort": 1,
+            "data": "AWcBNAJokAMCAUkEZSwOBHEAAAAAAAA=",
+            "objectJSON": "null",
+            "tags": {},
+            "confirmedUplink": false,
+            "devAddr": "AYaE3g==",
+            "publishedAt": "2024-04-17T09:35:27.563207430Z",
+            "deviceProfileID": "a5f5e16d-7c26-4e42-9917-10c80166c604",
+            "deviceProfileName": "ABP_AS923"
+        }
+    },
+    {
+        "type": "up",
+        "payload": {
+            "applicationID": "54",
+            "applicationName": "Batdau",
+            "deviceName": "Hello1",
+            "devEUI": "Iembo25a5Eg=",
+            "rxInfo": [
+                {
+                    "gatewayID": "rB8J//4Aqwo=",
+                    "time": "2024-04-17T09:33:40.723306Z",
+                    "timeSinceGPSEpoch": "1397381638.723s",
+                    "rssi": -70,
+                    "loRaSNR": 8.8,
+                    "channel": 2,
+                    "rfChain": 0,
+                    "board": 0,
+                    "antenna": 0,
+                    "location": {
+                        "latitude": 16.07524,
+                        "longitude": 108.15341,
+                        "altitude": 66,
+                        "source": "UNKNOWN",
+                        "accuracy": 0
+                    },
+                    "fineTimestampType": "NONE",
+                    "context": "G2LHSw==",
+                    "uplinkID": "HJijSL/RTrKSBNSh92egtg==",
+                    "crcStatus": "CRC_OK"
+                }
+            ],
+            "txInfo": {
+                "frequency": 921800000,
+                "modulation": "LORA",
+                "loRaModulationInfo": {
+                    "bandwidth": 125,
+                    "spreadingFactor": 7,
+                    "codeRate": "4/5",
+                    "polarizationInversion": false
+                }
+            },
+            "adr": true,
+            "dr": 5,
+            "fCnt": 85,
+            "fPort": 1,
+            "data": "AWcBNQJokAMCAUkEZSwiBHEAAAAAAAA=",
+            "objectJSON": "null",
+            "tags": {},
+            "confirmedUplink": false,
+            "devAddr": "AYaE3g==",
+            "publishedAt": "2024-04-17T09:35:25.276998516Z",
+            "deviceProfileID": "a5f5e16d-7c26-4e42-9917-10c80166c604",
+            "deviceProfileName": "ABP_AS923"
+        }
+    },
+    {
+        "type": "up",
+        "payload": {
+            "applicationID": "54",
+            "applicationName": "Batdau",
+            "deviceName": "Hello1",
+            "devEUI": "Iembo25a5Eg=",
+            "rxInfo": [
+                {
+                    "gatewayID": "rB8J//4G/PI=",
+                    "time": "2024-04-17T09:33:38.468653Z",
+                    "timeSinceGPSEpoch": "1397381636.469s",
+                    "rssi": -70,
+                    "loRaSNR": 10.3,
+                    "channel": 1,
+                    "rfChain": 0,
+                    "board": 0,
+                    "antenna": 0,
+                    "location": {
+                        "latitude": 16.07511,
+                        "longitude": 108.15408,
+                        "altitude": 6,
+                        "source": "UNKNOWN",
+                        "accuracy": 0
+                    },
+                    "fineTimestampType": "NONE",
+                    "context": "uItNEw==",
+                    "uplinkID": "SipYD+xdTWSj0LwfqIBw6w==",
+                    "crcStatus": "CRC_OK"
+                }
+            ],
+            "txInfo": {
+                "frequency": 921600000,
+                "modulation": "LORA",
+                "loRaModulationInfo": {
+                    "bandwidth": 125,
+                    "spreadingFactor": 7,
+                    "codeRate": "4/5",
+                    "polarizationInversion": false
+                }
+            },
+            "adr": true,
+            "dr": 5,
+            "fCnt": 84,
+            "fPort": 1,
+            "data": "AWcBNQJokAMCAUkEZSwkBHEAAAAAAAA=",
+            "objectJSON": "null",
+            "tags": {},
+            "confirmedUplink": false,
+            "devAddr": "AYaE3g==",
+            "publishedAt": "2024-04-17T09:35:23.038210652Z",
+            "deviceProfileID": "a5f5e16d-7c26-4e42-9917-10c80166c604",
+            "deviceProfileName": "ABP_AS923"
+        }
+    },
+    {
+        "type": "up",
+        "payload": {
+            "applicationID": "54",
+            "applicationName": "Batdau",
+            "deviceName": "Hello1",
+            "devEUI": "Iembo25a5Eg=",
+            "rxInfo": [
+                {
+                    "gatewayID": "rB8J//4P1ik=",
+                    "time": "2024-04-17T09:33:36.214020Z",
+                    "timeSinceGPSEpoch": "1397381634.213s",
+                    "rssi": -112,
+                    "loRaSNR": -6.8,
+                    "channel": 0,
+                    "rfChain": 0,
+                    "board": 0,
+                    "antenna": 0,
+                    "location": {
+                        "latitude": 16.06817,
+                        "longitude": 108.15443,
+                        "altitude": 31,
+                        "source": "UNKNOWN",
+                        "accuracy": 0
+                    },
+                    "fineTimestampType": "NONE",
+                    "context": "ypy/QQ==",
+                    "uplinkID": "jrZsXzqgTJGm6l7UgtTDbw==",
+                    "crcStatus": "CRC_OK"
+                },
+                {
+                    "gatewayID": "rB8J//4Aqwo=",
+                    "time": "2024-04-17T09:33:36.214010Z",
+                    "timeSinceGPSEpoch": "1397381634.214s",
+                    "rssi": -75,
+                    "loRaSNR": 10.3,
+                    "channel": 0,
+                    "rfChain": 0,
+                    "board": 0,
+                    "antenna": 0,
+                    "location": {
+                        "latitude": 16.07524,
+                        "longitude": 108.15341,
+                        "altitude": 66,
+                        "source": "UNKNOWN",
+                        "accuracy": 0
+                    },
+                    "fineTimestampType": "NONE",
+                    "context": "Gx342w==",
+                    "uplinkID": "qPPGb0cbRF6B4JzQM5f3NQ==",
+                    "crcStatus": "CRC_OK"
+                }
+            ],
+            "txInfo": {
+                "frequency": 921400000,
+                "modulation": "LORA",
+                "loRaModulationInfo": {
+                    "bandwidth": 125,
+                    "spreadingFactor": 7,
+                    "codeRate": "4/5",
+                    "polarizationInversion": false
+                }
+            },
+            "adr": true,
+            "dr": 5,
+            "fCnt": 83,
+            "fPort": 1,
+            "data": "AWcBNAJokQMCAUkEZSxTBHEAAAAAAAA=",
+            "objectJSON": "null",
+            "tags": {},
+            "confirmedUplink": false,
+            "devAddr": "AYaE3g==",
+            "publishedAt": "2024-04-17T09:35:20.834701744Z",
+            "deviceProfileID": "a5f5e16d-7c26-4e42-9917-10c80166c604",
+            "deviceProfileName": "ABP_AS923"
+        }
+    },
+    {
+        "type": "up",
+        "payload": {
+            "applicationID": "54",
+            "applicationName": "Batdau",
+            "deviceName": "Hello1",
+            "devEUI": "Iembo25a5Eg=",
+            "rxInfo": [
+                {
+                    "gatewayID": "rB8J//4G/PI=",
+                    "time": "2024-04-17T09:33:33.959221Z",
+                    "timeSinceGPSEpoch": "1397381631.959s",
+                    "rssi": -72,
+                    "loRaSNR": 8.3,
+                    "channel": 7,
+                    "rfChain": 1,
+                    "board": 0,
+                    "antenna": 0,
+                    "location": {
+                        "latitude": 16.07511,
+                        "longitude": 108.15407,
+                        "altitude": 1,
+                        "source": "UNKNOWN",
+                        "accuracy": 0
+                    },
+                    "fineTimestampType": "NONE",
+                    "context": "uEZ+HA==",
+                    "uplinkID": "8QvFIgCOSKKgaIv5ctHksA==",
+                    "crcStatus": "CRC_OK"
+                }
+            ],
+            "txInfo": {
+                "frequency": 922800000,
+                "modulation": "LORA",
+                "loRaModulationInfo": {
+                    "bandwidth": 125,
+                    "spreadingFactor": 7,
+                    "codeRate": "4/5",
+                    "polarizationInversion": false
+                }
+            },
+            "adr": true,
+            "dr": 5,
+            "fCnt": 82,
+            "fPort": 1,
+            "data": "AWcBNAJokAMCAUkEZSxXBHEAAAAAAAA=",
+            "objectJSON": "null",
+            "tags": {},
+            "confirmedUplink": false,
+            "devAddr": "AYaE3g==",
+            "publishedAt": "2024-04-17T09:35:18.546502861Z",
+            "deviceProfileID": "a5f5e16d-7c26-4e42-9917-10c80166c604",
+            "deviceProfileName": "ABP_AS923"
+        }
+    },
+    {
+        "type": "up",
+        "payload": {
+            "applicationID": "54",
+            "applicationName": "Batdau",
+            "deviceName": "Hello1",
+            "devEUI": "Iembo25a5Eg=",
+            "rxInfo": [
+                {
+                    "gatewayID": "rB8J//4Aqwo=",
+                    "time": "2024-04-17T09:33:31.704570Z",
+                    "timeSinceGPSEpoch": "1397381629.704s",
+                    "rssi": -70,
+                    "loRaSNR": 9.8,
+                    "channel": 6,
+                    "rfChain": 1,
+                    "board": 0,
+                    "antenna": 0,
+                    "location": {
+                        "latitude": 16.07524,
+                        "longitude": 108.15341,
+                        "altitude": 66,
+                        "source": "UNKNOWN",
+                        "accuracy": 0
+                    },
+                    "fineTimestampType": "NONE",
+                    "context": "Gtkp3A==",
+                    "uplinkID": "/i9AuzEASu2aZK8jwv9sLw==",
+                    "crcStatus": "CRC_OK"
+                }
+            ],
+            "txInfo": {
+                "frequency": 922600000,
+                "modulation": "LORA",
+                "loRaModulationInfo": {
+                    "bandwidth": 125,
+                    "spreadingFactor": 7,
+                    "codeRate": "4/5",
+                    "polarizationInversion": false
+                }
+            },
+            "adr": true,
+            "dr": 5,
+            "fCnt": 81,
+            "fPort": 1,
+            "data": "AWcBNAJokQMCAUkEZSx3BHEAAAAAAAA=",
+            "objectJSON": "null",
+            "tags": {},
+            "confirmedUplink": false,
+            "devAddr": "AYaE3g==",
+            "publishedAt": "2024-04-17T09:35:16.254286974Z",
+            "deviceProfileID": "a5f5e16d-7c26-4e42-9917-10c80166c604",
+            "deviceProfileName": "ABP_AS923"
+        }
+    },
+    {
+        "type": "up",
+        "payload": {
+            "applicationID": "54",
+            "applicationName": "Batdau",
+            "deviceName": "Hello1",
+            "devEUI": "Iembo25a5Eg=",
+            "rxInfo": [
+                {
+                    "gatewayID": "rB8J//4Aqwo=",
+                    "time": "2024-04-17T09:33:29.449938Z",
+                    "timeSinceGPSEpoch": "1397381627.449s",
+                    "rssi": -72,
+                    "loRaSNR": 9.3,
+                    "channel": 5,
+                    "rfChain": 1,
+                    "board": 0,
+                    "antenna": 0,
+                    "location": {
+                        "latitude": 16.07524,
+                        "longitude": 108.15341,
+                        "altitude": 66,
+                        "source": "UNKNOWN",
+                        "accuracy": 0
+                    },
+                    "fineTimestampType": "NONE",
+                    "context": "GrbCtA==",
+                    "uplinkID": "GJvtEqW5RwCl0JX3rYRQcQ==",
+                    "crcStatus": "CRC_OK"
+                },
+                {
+                    "gatewayID": "rB8J//4G/PI=",
+                    "time": "2024-04-17T09:33:29.449935Z",
+                    "timeSinceGPSEpoch": "1397381627.450s",
+                    "rssi": -71,
+                    "loRaSNR": 7.5,
+                    "channel": 5,
+                    "rfChain": 1,
+                    "board": 0,
+                    "antenna": 0,
+                    "location": {
+                        "latitude": 16.07511,
+                        "longitude": 108.15407,
+                        "altitude": 1,
+                        "source": "UNKNOWN",
+                        "accuracy": 0
+                    },
+                    "fineTimestampType": "NONE",
+                    "context": "uAGvtA==",
+                    "uplinkID": "FROrECaXQ2qYiW4aC8/14w==",
+                    "crcStatus": "CRC_OK"
+                }
+            ],
+            "txInfo": {
+                "frequency": 922400000,
+                "modulation": "LORA",
+                "loRaModulationInfo": {
+                    "bandwidth": 125,
+                    "spreadingFactor": 7,
+                    "codeRate": "4/5",
+                    "polarizationInversion": false
+                }
+            },
+            "adr": true,
+            "dr": 5,
+            "fCnt": 80,
+            "fPort": 1,
+            "data": "AWcBNAJokQMCAUkEZSyUBHEAAAAAAAA=",
+            "objectJSON": "null",
+            "tags": {},
+            "confirmedUplink": false,
+            "devAddr": "AYaE3g==",
+            "publishedAt": "2024-04-17T09:35:14.026950845Z",
+            "deviceProfileID": "a5f5e16d-7c26-4e42-9917-10c80166c604",
+            "deviceProfileName": "ABP_AS923"
+        }
+    },
+    {
+        "type": "up",
+        "payload": {
+            "applicationID": "54",
+            "applicationName": "Batdau",
+            "deviceName": "Hello1",
+            "devEUI": "Iembo25a5Eg=",
+            "rxInfo": [
+                {
+                    "gatewayID": "rB8J//4G/PI=",
+                    "time": "2024-04-17T09:33:24.940607Z",
+                    "timeSinceGPSEpoch": "1397381622.941s",
+                    "rssi": -77,
+                    "loRaSNR": 6,
+                    "channel": 3,
+                    "rfChain": 0,
+                    "board": 0,
+                    "antenna": 0,
+                    "location": {
+                        "latitude": 16.07511,
+                        "longitude": 108.15407,
+                        "altitude": 1,
+                        "source": "UNKNOWN",
+                        "accuracy": 0
+                    },
+                    "fineTimestampType": "NONE",
+                    "context": "t7zhIw==",
+                    "uplinkID": "FJKfi7msQ+CQ1NFMxqo0aA==",
+                    "crcStatus": "CRC_OK"
+                }
+            ],
+            "txInfo": {
+                "frequency": 922000000,
+                "modulation": "LORA",
+                "loRaModulationInfo": {
+                    "bandwidth": 125,
+                    "spreadingFactor": 7,
+                    "codeRate": "4/5",
+                    "polarizationInversion": false
+                }
+            },
+            "adr": true,
+            "dr": 5,
+            "fCnt": 78,
+            "fPort": 1,
+            "data": "AWcBNgJokQMCAUkEZS0zBHEAAAAAAAA=",
+            "objectJSON": "null",
+            "tags": {},
+            "confirmedUplink": false,
+            "devAddr": "AYaE3g==",
+            "publishedAt": "2024-04-17T09:35:09.495491237Z",
+            "deviceProfileID": "a5f5e16d-7c26-4e42-9917-10c80166c604",
+            "deviceProfileName": "ABP_AS923"
+        }
+    },
+    {
+        "type": "up",
+        "payload": {
+            "applicationID": "54",
+            "applicationName": "Batdau",
+            "deviceName": "Hello1",
+            "devEUI": "Iembo25a5Eg=",
+            "rxInfo": [
+                {
+                    "gatewayID": "rB8J//4Aqwo=",
+                    "time": "2024-04-17T09:33:22.683288Z",
+                    "timeSinceGPSEpoch": "1397381620.683s",
+                    "rssi": -72,
+                    "loRaSNR": 7.3,
+                    "channel": 2,
+                    "rfChain": 0,
+                    "board": 0,
+                    "antenna": 0,
+                    "location": {
+                        "latitude": 16.07524,
+                        "longitude": 108.15341,
+                        "altitude": 66,
+                        "source": "UNKNOWN",
+                        "accuracy": 0
+                    },
+                    "fineTimestampType": "NONE",
+                    "context": "Gk+Cew==",
+                    "uplinkID": "rWH27FHDTxqZIkalDOA86Q==",
+                    "crcStatus": "CRC_OK"
+                }
+            ],
+            "txInfo": {
+                "frequency": 921800000,
+                "modulation": "LORA",
+                "loRaModulationInfo": {
+                    "bandwidth": 125,
+                    "spreadingFactor": 7,
+                    "codeRate": "4/5",
+                    "polarizationInversion": false
+                }
+            },
+            "adr": true,
+            "dr": 5,
+            "fCnt": 77,
+            "fPort": 1,
+            "data": "AWcBNQJokQMCAUkEZS1gBHEAAAAAAAA=",
+            "objectJSON": "null",
+            "tags": {},
+            "confirmedUplink": false,
+            "devAddr": "AYaE3g==",
+            "publishedAt": "2024-04-17T09:35:07.270759407Z",
+            "deviceProfileID": "a5f5e16d-7c26-4e42-9917-10c80166c604",
+            "deviceProfileName": "ABP_AS923"
+        }
+    },
+    {
+        "type": "up",
+        "payload": {
+            "applicationID": "54",
+            "applicationName": "Batdau",
+            "deviceName": "Hello1",
+            "devEUI": "Iembo25a5Eg=",
+            "rxInfo": [
+                {
+                    "gatewayID": "rB8J//4G/PI=",
+                    "time": "2024-04-17T09:33:20.428574Z",
+                    "timeSinceGPSEpoch": "1397381618.429s",
+                    "rssi": -70,
+                    "loRaSNR": 8.8,
+                    "channel": 1,
+                    "rfChain": 0,
+                    "board": 0,
+                    "antenna": 0,
+                    "location": {
+                        "latitude": 16.07511,
+                        "longitude": 108.15407,
+                        "altitude": 1,
+                        "source": "UNKNOWN",
+                        "accuracy": 0
+                    },
+                    "fineTimestampType": "NONE",
+                    "context": "t3gIAw==",
+                    "uplinkID": "4zZ/z6fGTdC4qOJuIJzJKg==",
+                    "crcStatus": "CRC_OK"
+                }
+            ],
+            "txInfo": {
+                "frequency": 921600000,
+                "modulation": "LORA",
+                "loRaModulationInfo": {
+                    "bandwidth": 125,
+                    "spreadingFactor": 7,
+                    "codeRate": "4/5",
+                    "polarizationInversion": false
+                }
+            },
+            "adr": true,
+            "dr": 5,
+            "fCnt": 76,
+            "fPort": 1,
+            "data": "AWcBNAJokAMCAUkEZS1pBHEAAAAAAAA=",
+            "objectJSON": "null",
+            "tags": {},
+            "confirmedUplink": false,
+            "devAddr": "AYaE3g==",
+            "publishedAt": "2024-04-17T09:35:05.062065603Z",
+            "deviceProfileID": "a5f5e16d-7c26-4e42-9917-10c80166c604",
+            "deviceProfileName": "ABP_AS923"
+        }
+    },
+    {
+        "type": "up",
+        "payload": {
+            "applicationID": "54",
+            "applicationName": "Batdau",
+            "deviceName": "Hello1",
+            "devEUI": "Iembo25a5Eg=",
+            "rxInfo": [
+                {
+                    "gatewayID": "rB8J//4Aqwo=",
+                    "time": "2024-04-17T09:33:18.173912Z",
+                    "timeSinceGPSEpoch": "1397381616.173s",
+                    "rssi": -72,
+                    "loRaSNR": 10,
+                    "channel": 0,
+                    "rfChain": 0,
+                    "board": 0,
+                    "antenna": 0,
+                    "location": {
+                        "latitude": 16.07524,
+                        "longitude": 108.15341,
+                        "altitude": 66,
+                        "source": "UNKNOWN",
+                        "accuracy": 0
+                    },
+                    "fineTimestampType": "NONE",
+                    "context": "Ggqzuw==",
+                    "uplinkID": "UJy8ci3AQHeWTiHLGHxftg==",
+                    "crcStatus": "CRC_OK"
+                },
+                {
+                    "gatewayID": "rB8J//4P1ik=",
+                    "time": "2024-04-17T09:33:18.173922Z",
+                    "timeSinceGPSEpoch": "1397381616.173s",
+                    "rssi": -111,
+                    "loRaSNR": -5.8,
+                    "channel": 0,
+                    "rfChain": 0,
+                    "board": 0,
+                    "antenna": 0,
+                    "location": {
+                        "latitude": 16.06816,
+                        "longitude": 108.15443,
+                        "altitude": 31,
+                        "source": "UNKNOWN",
+                        "accuracy": 0
+                    },
+                    "fineTimestampType": "NONE",
+                    "context": "yYl6HA==",
+                    "uplinkID": "lCqmui2ZRiCtgphGT+EsbA==",
+                    "crcStatus": "CRC_OK"
+                }
+            ],
+            "txInfo": {
+                "frequency": 921400000,
+                "modulation": "LORA",
+                "loRaModulationInfo": {
+                    "bandwidth": 125,
+                    "spreadingFactor": 7,
+                    "codeRate": "4/5",
+                    "polarizationInversion": false
+                }
+            },
+            "adr": true,
+            "dr": 5,
+            "fCnt": 75,
+            "fPort": 1,
+            "data": "AWcBNAJokAMCAUkEZS15BHEAAAAAAAA=",
+            "objectJSON": "null",
+            "tags": {},
+            "confirmedUplink": false,
+            "devAddr": "AYaE3g==",
+            "publishedAt": "2024-04-17T09:35:02.762100091Z",
+            "deviceProfileID": "a5f5e16d-7c26-4e42-9917-10c80166c604",
+            "deviceProfileName": "ABP_AS923"
+        }
+    },
+    {
+        "type": "up",
+        "payload": {
+            "applicationID": "54",
+            "applicationName": "Batdau",
+            "deviceName": "Hello1",
+            "devEUI": "Iembo25a5Eg=",
+            "rxInfo": [
+                {
+                    "gatewayID": "rB8J//4G/PI=",
+                    "time": "2024-04-17T09:33:15.919153Z",
+                    "timeSinceGPSEpoch": "1397381613.919s",
+                    "rssi": -72,
+                    "loRaSNR": 8,
+                    "channel": 7,
+                    "rfChain": 1,
+                    "board": 0,
+                    "antenna": 0,
+                    "location": {
+                        "latitude": 16.07511,
+                        "longitude": 108.15407,
+                        "altitude": 1,
+                        "source": "UNKNOWN",
+                        "accuracy": 0
+                    },
+                    "fineTimestampType": "NONE",
+                    "context": "tzM5FA==",
+                    "uplinkID": "OvfQpdB/SNOeO//JUgRH8g==",
+                    "crcStatus": "CRC_OK"
+                }
+            ],
+            "txInfo": {
+                "frequency": 922800000,
+                "modulation": "LORA",
+                "loRaModulationInfo": {
+                    "bandwidth": 125,
+                    "spreadingFactor": 7,
+                    "codeRate": "4/5",
+                    "polarizationInversion": false
+                }
+            },
+            "adr": true,
+            "dr": 5,
+            "fCnt": 74,
+            "fPort": 1,
+            "data": "AWcBNAJokAMCAUkEZS2FBHEAAAAAAAA=",
+            "objectJSON": "null",
+            "tags": {},
+            "confirmedUplink": false,
+            "devAddr": "AYaE3g==",
+            "publishedAt": "2024-04-17T09:35:00.500822907Z",
+            "deviceProfileID": "a5f5e16d-7c26-4e42-9917-10c80166c604",
+            "deviceProfileName": "ABP_AS923"
+        }
+    },
+    {
+        "type": "up",
+        "payload": {
+            "applicationID": "54",
+            "applicationName": "Batdau",
+            "deviceName": "Hello1",
+            "devEUI": "Iembo25a5Eg=",
+            "rxInfo": [
+                {
+                    "gatewayID": "rB8J//4Aqwo=",
+                    "time": "2024-04-17T09:33:13.664536Z",
+                    "timeSinceGPSEpoch": "1397381611.664s",
+                    "rssi": -70,
+                    "loRaSNR": 10,
+                    "channel": 6,
+                    "rfChain": 1,
+                    "board": 0,
+                    "antenna": 0,
+                    "location": {
+                        "latitude": 16.07524,
+                        "longitude": 108.15341,
+                        "altitude": 66,
+                        "source": "UNKNOWN",
+                        "accuracy": 0
+                    },
+                    "fineTimestampType": "NONE",
+                    "context": "GcXk/A==",
+                    "uplinkID": "xkgJyyiKRJ6uWG0OYBajRQ==",
+                    "crcStatus": "CRC_OK"
+                }
+            ],
+            "txInfo": {
+                "frequency": 922600000,
+                "modulation": "LORA",
+                "loRaModulationInfo": {
+                    "bandwidth": 125,
+                    "spreadingFactor": 7,
+                    "codeRate": "4/5",
+                    "polarizationInversion": false
+                }
+            },
+            "adr": true,
+            "dr": 5,
+            "fCnt": 73,
+            "fPort": 1,
+            "data": "AWcBNAJokQMCAUkEZS2gBHEAAAAAAAA=",
+            "objectJSON": "null",
+            "tags": {},
+            "confirmedUplink": false,
+            "devAddr": "AYaE3g==",
+            "publishedAt": "2024-04-17T09:34:58.268392769Z",
+            "deviceProfileID": "a5f5e16d-7c26-4e42-9917-10c80166c604",
+            "deviceProfileName": "ABP_AS923"
+        }
+    },
+    {
+        "type": "up",
+        "payload": {
+            "applicationID": "54",
+            "applicationName": "Batdau",
+            "deviceName": "Hello1",
+            "devEUI": "Iembo25a5Eg=",
+            "rxInfo": [
+                {
+                    "gatewayID": "rB8J//4Aqwo=",
+                    "time": "2024-04-17T09:33:11.409856Z",
+                    "timeSinceGPSEpoch": "1397381609.409s",
+                    "rssi": -70,
+                    "loRaSNR": 10,
+                    "channel": 5,
+                    "rfChain": 1,
+                    "board": 0,
+                    "antenna": 0,
+                    "location": {
+                        "latitude": 16.07524,
+                        "longitude": 108.15341,
+                        "altitude": 66,
+                        "source": "UNKNOWN",
+                        "accuracy": 0
+                    },
+                    "fineTimestampType": "NONE",
+                    "context": "GaN9pA==",
+                    "uplinkID": "Uv//HYXeTiq8vSOOVQje3Q==",
+                    "crcStatus": "CRC_OK"
+                },
+                {
+                    "gatewayID": "rB8J//4G/PI=",
+                    "time": "2024-04-17T09:33:11.409858Z",
+                    "timeSinceGPSEpoch": "1397381609.410s",
+                    "rssi": -76,
+                    "loRaSNR": 5.5,
+                    "channel": 5,
+                    "rfChain": 1,
+                    "board": 0,
+                    "antenna": 0,
+                    "location": {
+                        "latitude": 16.07511,
+                        "longitude": 108.15407,
+                        "altitude": 1,
+                        "source": "UNKNOWN",
+                        "accuracy": 0
+                    },
+                    "fineTimestampType": "NONE",
+                    "context": "tu5qpA==",
+                    "uplinkID": "eNsUcYk1RyGIjYclENOFLA==",
+                    "crcStatus": "CRC_OK"
+                }
+            ],
+            "txInfo": {
+                "frequency": 922400000,
+                "modulation": "LORA",
+                "loRaModulationInfo": {
+                    "bandwidth": 125,
+                    "spreadingFactor": 7,
+                    "codeRate": "4/5",
+                    "polarizationInversion": false
+                }
+            },
+            "adr": true,
+            "dr": 5,
+            "fCnt": 72,
+            "fPort": 1,
+            "data": "AWcBNAJokQMCAUkEZS2XBHEAAAAAAAA=",
+            "objectJSON": "null",
+            "tags": {},
+            "confirmedUplink": false,
+            "devAddr": "AYaE3g==",
+            "publishedAt": "2024-04-17T09:34:55.995965123Z",
+            "deviceProfileID": "a5f5e16d-7c26-4e42-9917-10c80166c604",
+            "deviceProfileName": "ABP_AS923"
+        }
+    },
+    {
+        "type": "up",
+        "payload": {
+            "applicationID": "54",
+            "applicationName": "Batdau",
+            "deviceName": "Hello1",
+            "devEUI": "Iembo25a5Eg=",
+            "rxInfo": [
+                {
+                    "gatewayID": "rB8J//4Aqwo=",
+                    "time": "2024-04-17T09:33:06.900503Z",
+                    "timeSinceGPSEpoch": "1397381604.900s",
+                    "rssi": -71,
+                    "loRaSNR": 10.3,
+                    "channel": 3,
+                    "rfChain": 0,
+                    "board": 0,
+                    "antenna": 0,
+                    "location": {
+                        "latitude": 16.07524,
+                        "longitude": 108.15341,
+                        "altitude": 66,
+                        "source": "UNKNOWN",
+                        "accuracy": 0
+                    },
+                    "fineTimestampType": "NONE",
+                    "context": "GV6u+w==",
+                    "uplinkID": "TjbO/4zDQeuLYR0pmZRLxw==",
+                    "crcStatus": "CRC_OK"
+                }
+            ],
+            "txInfo": {
+                "frequency": 922000000,
+                "modulation": "LORA",
+                "loRaModulationInfo": {
+                    "bandwidth": 125,
+                    "spreadingFactor": 7,
+                    "codeRate": "4/5",
+                    "polarizationInversion": false
+                }
+            },
+            "adr": true,
+            "dr": 5,
+            "fCnt": 70,
+            "fPort": 1,
+            "data": "AWcBNAJokgMCAUkEZS2nBHEAAAAAAAA=",
+            "objectJSON": "null",
+            "tags": {},
+            "confirmedUplink": false,
+            "devAddr": "AYaE3g==",
+            "publishedAt": "2024-04-17T09:34:51.503811194Z",
+            "deviceProfileID": "a5f5e16d-7c26-4e42-9917-10c80166c604",
+            "deviceProfileName": "ABP_AS923"
+        }
+    },
+    {
+        "type": "up",
+        "payload": {
+            "applicationID": "54",
+            "applicationName": "Batdau",
+            "deviceName": "Hello1",
+            "devEUI": "Iembo25a5Eg=",
+            "rxInfo": [
+                {
+                    "gatewayID": "rB8J//4G/PI=",
+                    "time": "2024-04-17T09:33:04.643186Z",
+                    "timeSinceGPSEpoch": "1397381602.643s",
+                    "rssi": -71,
+                    "loRaSNR": 6.8,
+                    "channel": 2,
+                    "rfChain": 0,
+                    "board": 0,
+                    "antenna": 0,
+                    "location": {
+                        "latitude": 16.07507,
+                        "longitude": 108.15409,
+                        "altitude": -1,
+                        "source": "UNKNOWN",
+                        "accuracy": 0
+                    },
+                    "fineTimestampType": "NONE",
+                    "context": "tocqUw==",
+                    "uplinkID": "1YyCfLJKQ5mZclG5G45OtQ==",
+                    "crcStatus": "CRC_OK"
+                }
+            ],
+            "txInfo": {
+                "frequency": 921800000,
+                "modulation": "LORA",
+                "loRaModulationInfo": {
+                    "bandwidth": 125,
+                    "spreadingFactor": 7,
+                    "codeRate": "4/5",
+                    "polarizationInversion": false
+                }
+            },
+            "adr": true,
+            "dr": 5,
+            "fCnt": 69,
+            "fPort": 1,
+            "data": "AWcBMwJokQMCAUkEZS20BHEAAAAAAAA=",
+            "objectJSON": "null",
+            "tags": {},
+            "confirmedUplink": false,
+            "devAddr": "AYaE3g==",
+            "publishedAt": "2024-04-17T09:34:49.204139081Z",
+            "deviceProfileID": "a5f5e16d-7c26-4e42-9917-10c80166c604",
+            "deviceProfileName": "ABP_AS923"
+        }
+    },
+    {
+        "type": "up",
+        "payload": {
+            "applicationID": "54",
+            "applicationName": "Batdau",
+            "deviceName": "Hello1",
+            "devEUI": "Iembo25a5Eg=",
+            "rxInfo": [
+                {
+                    "gatewayID": "rB8J//4G/PI=",
+                    "time": "2024-04-17T09:31:45.719327Z",
+                    "timeSinceGPSEpoch": "1397381523.719s",
+                    "rssi": -74,
+                    "loRaSNR": 6.5,
+                    "channel": 7,
+                    "rfChain": 1,
+                    "board": 0,
+                    "antenna": 0,
+                    "location": {
+                        "latitude": 16.07508,
+                        "longitude": 108.15401,
+                        "altitude": 3,
+                        "source": "UNKNOWN",
+                        "accuracy": 0
+                    },
+                    "fineTimestampType": "NONE",
+                    "context": "sdLh9A==",
+                    "uplinkID": "sr6nuejvRyqP2FWzrwAVlw==",
+                    "crcStatus": "CRC_OK"
+                }
+            ],
+            "txInfo": {
+                "frequency": 922800000,
+                "modulation": "LORA",
+                "loRaModulationInfo": {
+                    "bandwidth": 125,
+                    "spreadingFactor": 7,
+                    "codeRate": "4/5",
+                    "polarizationInversion": false
+                }
+            },
+            "adr": true,
+            "dr": 5,
+            "fCnt": 34,
+            "fPort": 1,
+            "data": "AWcBLgJokgMCAUkEZS6YBHEAAAAAAAA=",
+            "objectJSON": "null",
+            "tags": {},
+            "confirmedUplink": false,
+            "devAddr": "AYaE3g==",
+            "publishedAt": "2024-04-17T09:33:30.319722212Z",
+            "deviceProfileID": "a5f5e16d-7c26-4e42-9917-10c80166c604",
+            "deviceProfileName": "ABP_AS923"
+        }
+    },
+    {
+        "type": "up",
+        "payload": {
+            "applicationID": "54",
+            "applicationName": "Batdau",
+            "deviceName": "Hello1",
+            "devEUI": "Iembo25a5Eg=",
+            "rxInfo": [
+                {
+                    "gatewayID": "rB8J//4Aqwo=",
+                    "time": "2024-04-17T09:31:43.464662Z",
+                    "timeSinceGPSEpoch": "1397381521.464s",
+                    "rssi": -71,
+                    "loRaSNR": 9,
+                    "channel": 6,
+                    "rfChain": 1,
+                    "board": 0,
+                    "antenna": 0,
+                    "location": {
+                        "latitude": 16.07524,
+                        "longitude": 108.15341,
+                        "altitude": 66,
+                        "source": "UNKNOWN",
+                        "accuracy": 0
+                    },
+                    "fineTimestampType": "NONE",
+                    "context": "FGWNxA==",
+                    "uplinkID": "PgDsYIqyTn2iX9p/yLMAug==",
+                    "crcStatus": "CRC_OK"
+                }
+            ],
+            "txInfo": {
+                "frequency": 922600000,
+                "modulation": "LORA",
+                "loRaModulationInfo": {
+                    "bandwidth": 125,
+                    "spreadingFactor": 7,
+                    "codeRate": "4/5",
+                    "polarizationInversion": false
+                }
+            },
+            "adr": true,
+            "dr": 5,
+            "fCnt": 33,
+            "fPort": 1,
+            "data": "AWcBLwJokgMCAUkEZS6cBHEAAAAAAAA=",
+            "objectJSON": "null",
+            "tags": {},
+            "confirmedUplink": false,
+            "devAddr": "AYaE3g==",
+            "publishedAt": "2024-04-17T09:33:28.044347584Z",
+            "deviceProfileID": "a5f5e16d-7c26-4e42-9917-10c80166c604",
+            "deviceProfileName": "ABP_AS923"
+        }
+    },
+    {
+        "type": "up",
+        "payload": {
+            "applicationID": "54",
+            "applicationName": "Batdau",
+            "deviceName": "Hello1",
+            "devEUI": "Iembo25a5Eg=",
+            "rxInfo": [
+                {
+                    "gatewayID": "rB8J//4G/PI=",
+                    "time": "2024-04-17T09:31:41.210040Z",
+                    "timeSinceGPSEpoch": "1397381519.210s",
+                    "rssi": -75,
+                    "loRaSNR": 7,
+                    "channel": 5,
+                    "rfChain": 1,
+                    "board": 0,
+                    "antenna": 0,
+                    "location": {
+                        "latitude": 16.07508,
+                        "longitude": 108.15401,
+                        "altitude": 3,
+                        "source": "UNKNOWN",
+                        "accuracy": 0
+                    },
+                    "fineTimestampType": "NONE",
+                    "context": "sY4TjA==",
+                    "uplinkID": "9cEqlLomTXuIb/37RaNgsg==",
+                    "crcStatus": "CRC_OK"
+                },
+                {
+                    "gatewayID": "rB8J//4Aqwo=",
+                    "time": "2024-04-17T09:31:41.210038Z",
+                    "timeSinceGPSEpoch": "1397381519.210s",
+                    "rssi": -71,
+                    "loRaSNR": 9.8,
+                    "channel": 5,
+                    "rfChain": 1,
+                    "board": 0,
+                    "antenna": 0,
+                    "location": {
+                        "latitude": 16.07524,
+                        "longitude": 108.15341,
+                        "altitude": 66,
+                        "source": "UNKNOWN",
+                        "accuracy": 0
+                    },
+                    "fineTimestampType": "NONE",
+                    "context": "FEMmpA==",
+                    "uplinkID": "UQg8SHD3TeeJkAACvJC1eA==",
+                    "crcStatus": "CRC_OK"
+                }
+            ],
+            "txInfo": {
+                "frequency": 922400000,
+                "modulation": "LORA",
+                "loRaModulationInfo": {
+                    "bandwidth": 125,
+                    "spreadingFactor": 7,
+                    "codeRate": "4/5",
+                    "polarizationInversion": false
+                }
+            },
+            "adr": true,
+            "dr": 5,
+            "fCnt": 32,
+            "fPort": 1,
+            "data": "AWcBLwJokgMCAUkEZS0uBHEAAAAAAAA=",
+            "objectJSON": "null",
+            "tags": {},
+            "confirmedUplink": false,
+            "devAddr": "AYaE3g==",
+            "publishedAt": "2024-04-17T09:33:25.786139636Z",
+            "deviceProfileID": "a5f5e16d-7c26-4e42-9917-10c80166c604",
+            "deviceProfileName": "ABP_AS923"
+        }
+    },
+    {
+        "type": "up",
+        "payload": {
+            "applicationID": "54",
+            "applicationName": "Batdau",
+            "deviceName": "Hello1",
+            "devEUI": "Iembo25a5Eg=",
+            "rxInfo": [
+                {
+                    "gatewayID": "rB8J//4G/PI=",
+                    "time": "2024-04-17T09:31:36.700727Z",
+                    "timeSinceGPSEpoch": "1397381514.701s",
+                    "rssi": -74,
+                    "loRaSNR": 8.8,
+                    "channel": 3,
+                    "rfChain": 0,
+                    "board": 0,
+                    "antenna": 0,
+                    "location": {
+                        "latitude": 16.07515,
+                        "longitude": 108.154,
+                        "altitude": 2,
+                        "source": "UNKNOWN",
+                        "accuracy": 0
+                    },
+                    "fineTimestampType": "NONE",
+                    "context": "sUlFCw==",
+                    "uplinkID": "yrHma00nRpe0WK6RO6ClsA==",
+                    "crcStatus": "CRC_OK"
+                }
+            ],
+            "txInfo": {
+                "frequency": 922000000,
+                "modulation": "LORA",
+                "loRaModulationInfo": {
+                    "bandwidth": 125,
+                    "spreadingFactor": 7,
+                    "codeRate": "4/5",
+                    "polarizationInversion": false
+                }
+            },
+            "adr": true,
+            "dr": 5,
+            "fCnt": 30,
+            "fPort": 1,
+            "data": "AWcBLgJolAMCAUkEZS4XBHEAAAAAAAA=",
+            "objectJSON": "null",
+            "tags": {},
+            "confirmedUplink": false,
+            "devAddr": "AYaE3g==",
+            "publishedAt": "2024-04-17T09:33:21.269441674Z",
+            "deviceProfileID": "a5f5e16d-7c26-4e42-9917-10c80166c604",
+            "deviceProfileName": "ABP_AS923"
+        }
+    },
+    {
+        "type": "up",
+        "payload": {
+            "applicationID": "54",
+            "applicationName": "Batdau",
+            "deviceName": "Hello1",
+            "devEUI": "Iembo25a5Eg=",
+            "rxInfo": [
+                {
+                    "gatewayID": "rB8J//4Aqwo=",
+                    "time": "2024-04-17T09:31:34.443436Z",
+                    "timeSinceGPSEpoch": "1397381512.443s",
+                    "rssi": -71,
+                    "loRaSNR": 8,
+                    "channel": 2,
+                    "rfChain": 0,
+                    "board": 0,
+                    "antenna": 0,
+                    "location": {
+                        "latitude": 16.07524,
+                        "longitude": 108.15341,
+                        "altitude": 66,
+                        "source": "UNKNOWN",
+                        "accuracy": 0
+                    },
+                    "fineTimestampType": "NONE",
+                    "context": "E9vmmw==",
+                    "uplinkID": "nsd4x1uuRSGuGlckX7BK9Q==",
+                    "crcStatus": "CRC_OK"
+                }
+            ],
+            "txInfo": {
+                "frequency": 921800000,
+                "modulation": "LORA",
+                "loRaModulationInfo": {
+                    "bandwidth": 125,
+                    "spreadingFactor": 7,
+                    "codeRate": "4/5",
+                    "polarizationInversion": false
+                }
+            },
+            "adr": true,
+            "dr": 5,
+            "fCnt": 29,
+            "fPort": 1,
+            "data": "AWcBLgJolQMCAUkEZS4jBHEAAAAAAAA=",
+            "objectJSON": "null",
+            "tags": {},
+            "confirmedUplink": false,
+            "devAddr": "AYaE3g==",
+            "publishedAt": "2024-04-17T09:33:19.019650296Z",
+            "deviceProfileID": "a5f5e16d-7c26-4e42-9917-10c80166c604",
+            "deviceProfileName": "ABP_AS923"
+        }
+    },
+    {
+        "type": "up",
+        "payload": {
+            "applicationID": "54",
+            "applicationName": "Batdau",
+            "deviceName": "Hello1",
+            "devEUI": "Iembo25a5Eg=",
+            "rxInfo": [
+                {
+                    "gatewayID": "rB8J//4G/PI=",
+                    "time": "2024-04-17T09:31:32.188800Z",
+                    "timeSinceGPSEpoch": "1397381510.189s",
+                    "rssi": -73,
+                    "loRaSNR": 8.5,
+                    "channel": 1,
+                    "rfChain": 0,
+                    "board": 0,
+                    "antenna": 0,
+                    "location": {
+                        "latitude": 16.07515,
+                        "longitude": 108.154,
+                        "altitude": 2,
+                        "source": "UNKNOWN",
+                        "accuracy": 0
+                    },
+                    "fineTimestampType": "NONE",
+                    "context": "sQRsUw==",
+                    "uplinkID": "r5H7uRZPQO650SZt/p8B+Q==",
+                    "crcStatus": "CRC_OK"
+                }
+            ],
+            "txInfo": {
+                "frequency": 921600000,
+                "modulation": "LORA",
+                "loRaModulationInfo": {
+                    "bandwidth": 125,
+                    "spreadingFactor": 7,
+                    "codeRate": "4/5",
+                    "polarizationInversion": false
+                }
+            },
+            "adr": true,
+            "dr": 5,
+            "fCnt": 28,
+            "fPort": 1,
+            "data": "AWcBLgJolQMCAUkEZS4gBHEAAAAAAAA=",
+            "objectJSON": "null",
+            "tags": {},
+            "confirmedUplink": false,
+            "devAddr": "AYaE3g==",
+            "publishedAt": "2024-04-17T09:33:16.736347803Z",
+            "deviceProfileID": "a5f5e16d-7c26-4e42-9917-10c80166c604",
+            "deviceProfileName": "ABP_AS923"
+        }
+    },
+    {
+        "type": "up",
+        "payload": {
+            "applicationID": "54",
+            "applicationName": "Batdau",
+            "deviceName": "Hello1",
+            "devEUI": "Iembo25a5Eg=",
+            "rxInfo": [
+                {
+                    "gatewayID": "rB8J//4Aqwo=",
+                    "time": "2024-04-17T09:31:29.934124Z",
+                    "timeSinceGPSEpoch": "1397381507.934s",
+                    "rssi": -74,
+                    "loRaSNR": 9.3,
+                    "channel": 0,
+                    "rfChain": 0,
+                    "board": 0,
+                    "antenna": 0,
+                    "location": {
+                        "latitude": 16.07524,
+                        "longitude": 108.15341,
+                        "altitude": 66,
+                        "source": "UNKNOWN",
+                        "accuracy": 0
+                    },
+                    "fineTimestampType": "NONE",
+                    "context": "E5cYGw==",
+                    "uplinkID": "7kLYlRfEQHCV7y3JgwgpOA==",
+                    "crcStatus": "CRC_OK"
+                }
+            ],
+            "txInfo": {
+                "frequency": 921400000,
+                "modulation": "LORA",
+                "loRaModulationInfo": {
+                    "bandwidth": 125,
+                    "spreadingFactor": 7,
+                    "codeRate": "4/5",
+                    "polarizationInversion": false
+                }
+            },
+            "adr": true,
+            "dr": 5,
+            "fCnt": 27,
+            "fPort": 1,
+            "data": "AWcBLgJolQMCAUkEZS4dBHEAAAAAAAA=",
+            "objectJSON": "null",
+            "tags": {},
+            "confirmedUplink": false,
+            "devAddr": "AYaE3g==",
+            "publishedAt": "2024-04-17T09:33:14.520416322Z",
+            "deviceProfileID": "a5f5e16d-7c26-4e42-9917-10c80166c604",
+            "deviceProfileName": "ABP_AS923"
+        }
+    },
+    {
+        "type": "up",
+        "payload": {
+            "applicationID": "54",
+            "applicationName": "Batdau",
+            "deviceName": "Hello1",
+            "devEUI": "Iembo25a5Eg=",
+            "rxInfo": [
+                {
+                    "gatewayID": "rB8J//4G/PI=",
+                    "time": "2024-04-17T09:31:27.679394Z",
+                    "timeSinceGPSEpoch": "1397381505.679s",
+                    "rssi": -74,
+                    "loRaSNR": 6.8,
+                    "channel": 7,
+                    "rfChain": 1,
+                    "board": 0,
+                    "antenna": 0,
+                    "location": {
+                        "latitude": 16.07515,
+                        "longitude": 108.154,
+                        "altitude": 2,
+                        "source": "UNKNOWN",
+                        "accuracy": 0
+                    },
+                    "fineTimestampType": "NONE",
+                    "context": "sL+ddA==",
+                    "uplinkID": "yzKqWGMDSYiAiLEl6OEdoA==",
+                    "crcStatus": "CRC_OK"
+                },
+                {
+                    "gatewayID": "rB8J//4Aqwo=",
+                    "time": "2024-04-17T09:31:27.679388Z",
+                    "timeSinceGPSEpoch": "1397381505.679s",
+                    "rssi": -69,
+                    "loRaSNR": 9.3,
+                    "channel": 7,
+                    "rfChain": 1,
+                    "board": 0,
+                    "antenna": 0,
+                    "location": {
+                        "latitude": 16.07524,
+                        "longitude": 108.15341,
+                        "altitude": 66,
+                        "source": "UNKNOWN",
+                        "accuracy": 0
+                    },
+                    "fineTimestampType": "NONE",
+                    "context": "E3SwjA==",
+                    "uplinkID": "2Qq603I0T2q5ja9RCfQfwA==",
+                    "crcStatus": "CRC_OK"
+                }
+            ],
+            "txInfo": {
+                "frequency": 922800000,
+                "modulation": "LORA",
+                "loRaModulationInfo": {
+                    "bandwidth": 125,
+                    "spreadingFactor": 7,
+                    "codeRate": "4/5",
+                    "polarizationInversion": false
+                }
+            },
+            "adr": true,
+            "dr": 5,
+            "fCnt": 26,
+            "fPort": 1,
+            "data": "AWcBLQJolQMCAUkEZS4hBHEAAAAAAAA=",
+            "objectJSON": "null",
+            "tags": {},
+            "confirmedUplink": false,
+            "devAddr": "AYaE3g==",
+            "publishedAt": "2024-04-17T09:33:12.327965827Z",
+            "deviceProfileID": "a5f5e16d-7c26-4e42-9917-10c80166c604",
+            "deviceProfileName": "ABP_AS923"
+        }
+    },
+    {
+        "type": "error",
+        "payload": {
+            "applicationID": "54",
+            "applicationName": "Batdau",
+            "deviceName": "Hello1",
+            "devEUI": "Iembo25a5Eg=",
+            "type": "DOWNLINK_GATEWAY",
+            "error": "COLLISION_BEACON",
+            "fCnt": 7873,
+            "tags": {},
+            "publishedAt": "2024-04-17T09:33:10.113207692Z"
+        }
+    },
+    {
+        "type": "up",
+        "payload": {
+            "applicationID": "54",
+            "applicationName": "Batdau",
+            "deviceName": "Hello1",
+            "devEUI": "Iembo25a5Eg=",
+            "rxInfo": [
+                {
+                    "gatewayID": "rB8J//4G/PI=",
+                    "time": "2024-04-17T09:31:25.424754Z",
+                    "timeSinceGPSEpoch": "1397381503.425s",
+                    "rssi": -72,
+                    "loRaSNR": 7,
+                    "channel": 6,
+                    "rfChain": 1,
+                    "board": 0,
+                    "antenna": 0,
+                    "location": {
+                        "latitude": 16.07515,
+                        "longitude": 108.154,
+                        "altitude": 2,
+                        "source": "UNKNOWN",
+                        "accuracy": 0
+                    },
+                    "fineTimestampType": "NONE",
+                    "context": "sJ02RA==",
+                    "uplinkID": "ecdFu/+lQei/4ukE3Z8VaQ==",
+                    "crcStatus": "CRC_OK"
+                }
+            ],
+            "txInfo": {
+                "frequency": 922600000,
+                "modulation": "LORA",
+                "loRaModulationInfo": {
+                    "bandwidth": 125,
+                    "spreadingFactor": 7,
+                    "codeRate": "4/5",
+                    "polarizationInversion": false
+                }
+            },
+            "adr": true,
+            "dr": 5,
+            "fCnt": 25,
+            "fPort": 1,
+            "data": "AWcBLQJolQMCAUkEZS4nBHEAAAAAAAA=",
+            "objectJSON": "null",
+            "tags": {},
+            "confirmedUplink": false,
+            "devAddr": "AYaE3g==",
+            "publishedAt": "2024-04-17T09:33:09.969729108Z",
+            "deviceProfileID": "a5f5e16d-7c26-4e42-9917-10c80166c604",
+            "deviceProfileName": "ABP_AS923"
+        }
+    },
+    {
+        "type": "up",
+        "payload": {
+            "applicationID": "54",
+            "applicationName": "Batdau",
+            "deviceName": "Hello1",
+            "devEUI": "Iembo25a5Eg=",
+            "rxInfo": [
+                {
+                    "gatewayID": "rB8J//4G/PI=",
+                    "time": "2024-04-17T09:31:23.170130Z",
+                    "timeSinceGPSEpoch": "1397381501.170s",
+                    "rssi": -74,
+                    "loRaSNR": 8.3,
+                    "channel": 5,
+                    "rfChain": 1,
+                    "board": 0,
+                    "antenna": 0,
+                    "location": {
+                        "latitude": 16.07515,
+                        "longitude": 108.154,
+                        "altitude": 2,
+                        "source": "UNKNOWN",
+                        "accuracy": 0
+                    },
+                    "fineTimestampType": "NONE",
+                    "context": "sHrPJA==",
+                    "uplinkID": "5lSLqNTtRHiS3Zfsprvtzw==",
+                    "crcStatus": "CRC_OK"
+                },
+                {
+                    "gatewayID": "rB8J//4Aqwo=",
+                    "time": "2024-04-17T09:31:23.170131Z",
+                    "timeSinceGPSEpoch": "1397381501.170s",
+                    "rssi": -72,
+                    "loRaSNR": 10.5,
+                    "channel": 5,
+                    "rfChain": 1,
+                    "board": 0,
+                    "antenna": 0,
+                    "location": {
+                        "latitude": 16.07524,
+                        "longitude": 108.15341,
+                        "altitude": 66,
+                        "source": "UNKNOWN",
+                        "accuracy": 0
+                    },
+                    "fineTimestampType": "NONE",
+                    "context": "Ey/iRA==",
+                    "uplinkID": "ZdQUu7UPSaeImrsE2h/BNQ==",
+                    "crcStatus": "CRC_OK"
+                }
+            ],
+            "txInfo": {
+                "frequency": 922400000,
+                "modulation": "LORA",
+                "loRaModulationInfo": {
+                    "bandwidth": 125,
+                    "spreadingFactor": 7,
+                    "codeRate": "4/5",
+                    "polarizationInversion": false
+                }
+            },
+            "adr": true,
+            "dr": 5,
+            "fCnt": 24,
+            "fPort": 1,
+            "data": "AWcBLgJolQMCAUkEZS4dBHEAAAAAAAA=",
+            "objectJSON": "null",
+            "tags": {},
+            "confirmedUplink": false,
+            "devAddr": "AYaE3g==",
+            "publishedAt": "2024-04-17T09:33:07.719339997Z",
+            "deviceProfileID": "a5f5e16d-7c26-4e42-9917-10c80166c604",
+            "deviceProfileName": "ABP_AS923"
+        }
+    },
+    {
+        "type": "up",
+        "payload": {
+            "applicationID": "54",
+            "applicationName": "Batdau",
+            "deviceName": "Hello1",
+            "devEUI": "Iembo25a5Eg=",
+            "rxInfo": [
+                {
+                    "gatewayID": "rB8J//4G/PI=",
+                    "time": "2024-04-17T09:31:18.660842Z",
+                    "timeSinceGPSEpoch": "1397381496.661s",
+                    "rssi": -71,
+                    "loRaSNR": 8.3,
+                    "channel": 3,
+                    "rfChain": 0,
+                    "board": 0,
+                    "antenna": 0,
+                    "location": {
+                        "latitude": 16.07515,
+                        "longitude": 108.154,
+                        "altitude": 2,
+                        "source": "UNKNOWN",
+                        "accuracy": 0
+                    },
+                    "fineTimestampType": "NONE",
+                    "context": "sDYAuw==",
+                    "uplinkID": "xzeA//htQVuP57qUKY7U1Q==",
+                    "crcStatus": "CRC_OK"
+                }
+            ],
+            "txInfo": {
+                "frequency": 922000000,
+                "modulation": "LORA",
+                "loRaModulationInfo": {
+                    "bandwidth": 125,
+                    "spreadingFactor": 7,
+                    "codeRate": "4/5",
+                    "polarizationInversion": false
+                }
+            },
+            "adr": true,
+            "dr": 5,
+            "fCnt": 22,
+            "fPort": 1,
+            "data": "AWcBLQJolQMCAUkEZS4YBHEAAAAAAAA=",
+            "objectJSON": "null",
+            "tags": {},
+            "confirmedUplink": false,
+            "devAddr": "AYaE3g==",
+            "publishedAt": "2024-04-17T09:33:03.219125630Z",
+            "deviceProfileID": "a5f5e16d-7c26-4e42-9917-10c80166c604",
+            "deviceProfileName": "ABP_AS923"
+        }
+    },
+    {
+        "type": "up",
+        "payload": {
+            "applicationID": "54",
+            "applicationName": "Batdau",
+            "deviceName": "Hello1",
+            "devEUI": "Iembo25a5Eg=",
+            "rxInfo": [
+                {
+                    "gatewayID": "rB8J//4Aqwo=",
+                    "time": "2024-04-17T09:31:16.403546Z",
+                    "timeSinceGPSEpoch": "1397381494.403s",
+                    "rssi": -70,
+                    "loRaSNR": 7.8,
+                    "channel": 2,
+                    "rfChain": 0,
+                    "board": 0,
+                    "antenna": 0,
+                    "location": {
+                        "latitude": 16.07524,
+                        "longitude": 108.15341,
+                        "altitude": 66,
+                        "source": "UNKNOWN",
+                        "accuracy": 0
+                    },
+                    "fineTimestampType": "NONE",
+                    "context": "EsiiSw==",
+                    "uplinkID": "EMPx8oK1RWuwBAbdA+cQKw==",
+                    "crcStatus": "CRC_OK"
+                }
+            ],
+            "txInfo": {
+                "frequency": 921800000,
+                "modulation": "LORA",
+                "loRaModulationInfo": {
+                    "bandwidth": 125,
+                    "spreadingFactor": 7,
+                    "codeRate": "4/5",
+                    "polarizationInversion": false
+                }
+            },
+            "adr": true,
+            "dr": 5,
+            "fCnt": 21,
+            "fPort": 1,
+            "data": "AWcBLgJolAMCAUkEZS4VBHEAAAAAAAA=",
+            "objectJSON": "null",
+            "tags": {},
+            "confirmedUplink": false,
+            "devAddr": "AYaE3g==",
+            "publishedAt": "2024-04-17T09:33:01.001949729Z",
+            "deviceProfileID": "a5f5e16d-7c26-4e42-9917-10c80166c604",
+            "deviceProfileName": "ABP_AS923"
+        }
+    },
+    {
+        "type": "up",
+        "payload": {
+            "applicationID": "54",
+            "applicationName": "Batdau",
+            "deviceName": "Hello1",
+            "devEUI": "Iembo25a5Eg=",
+            "rxInfo": [
+                {
+                    "gatewayID": "rB8J//4G/PI=",
+                    "time": "2024-04-17T09:31:14.148930Z",
+                    "timeSinceGPSEpoch": "1397381492.149s",
+                    "rssi": -72,
+                    "loRaSNR": 9.8,
+                    "channel": 1,
+                    "rfChain": 0,
+                    "board": 0,
+                    "antenna": 0,
+                    "location": {
+                        "latitude": 16.07515,
+                        "longitude": 108.154,
+                        "altitude": 2,
+                        "source": "UNKNOWN",
+                        "accuracy": 0
+                    },
+                    "fineTimestampType": "NONE",
+                    "context": "r/EoEw==",
+                    "uplinkID": "7CuKJaJpTFOymeifFxsvIg==",
+                    "crcStatus": "CRC_OK"
+                }
+            ],
+            "txInfo": {
+                "frequency": 921600000,
+                "modulation": "LORA",
+                "loRaModulationInfo": {
+                    "bandwidth": 125,
+                    "spreadingFactor": 7,
+                    "codeRate": "4/5",
+                    "polarizationInversion": false
+                }
+            },
+            "adr": true,
+            "dr": 5,
+            "fCnt": 20,
+            "fPort": 1,
+            "data": "AWcBLAJolAMCAUkEZS4jBHEAAAAAAAA=",
+            "objectJSON": "null",
+            "tags": {},
+            "confirmedUplink": false,
+            "devAddr": "AYaE3g==",
+            "publishedAt": "2024-04-17T09:32:58.700749064Z",
+            "deviceProfileID": "a5f5e16d-7c26-4e42-9917-10c80166c604",
+            "deviceProfileName": "ABP_AS923"
+        }
+    },
+    {
+        "type": "up",
+        "payload": {
+            "applicationID": "54",
+            "applicationName": "Batdau",
+            "deviceName": "Hello1",
+            "devEUI": "Iembo25a5Eg=",
+            "rxInfo": [
+                {
+                    "gatewayID": "rB8J//4P1ik=",
+                    "time": "2024-04-17T09:31:11.894333Z",
+                    "timeSinceGPSEpoch": "1397381489.894s",
+                    "rssi": -110,
+                    "loRaSNR": -7,
+                    "channel": 0,
+                    "rfChain": 0,
+                    "board": 0,
+                    "antenna": 0,
+                    "location": {
+                        "latitude": 16.06816,
+                        "longitude": 108.15444,
+                        "altitude": 31,
+                        "source": "UNKNOWN",
+                        "accuracy": 0
+                    },
+                    "fineTimestampType": "NONE",
+                    "context": "wgKabw==",
+                    "uplinkID": "lq3vOrbwSGaU6tMBowNy4A==",
+                    "crcStatus": "CRC_OK"
+                },
+                {
+                    "gatewayID": "rB8J//4Aqwo=",
+                    "time": "2024-04-17T09:31:11.894322Z",
+                    "timeSinceGPSEpoch": "1397381489.894s",
+                    "rssi": -74,
+                    "loRaSNR": 9.5,
+                    "channel": 0,
+                    "rfChain": 0,
+                    "board": 0,
+                    "antenna": 0,
+                    "location": {
+                        "latitude": 16.07524,
+                        "longitude": 108.15341,
+                        "altitude": 66,
+                        "source": "UNKNOWN",
+                        "accuracy": 0
+                    },
+                    "fineTimestampType": "NONE",
+                    "context": "EoPUIw==",
+                    "uplinkID": "AEOq3vt7QbypGJOKdsvbaw==",
+                    "crcStatus": "CRC_OK"
+                }
+            ],
+            "txInfo": {
+                "frequency": 921400000,
+                "modulation": "LORA",
+                "loRaModulationInfo": {
+                    "bandwidth": 125,
+                    "spreadingFactor": 7,
+                    "codeRate": "4/5",
+                    "polarizationInversion": false
+                }
+            },
+            "adr": true,
+            "dr": 5,
+            "fCnt": 19,
+            "fPort": 1,
+            "data": "AWcBLQJolQMCAUkEZS4nBHEAAAAAAAA=",
+            "objectJSON": "null",
+            "tags": {},
+            "confirmedUplink": false,
+            "devAddr": "AYaE3g==",
+            "publishedAt": "2024-04-17T09:32:56.451352494Z",
+            "deviceProfileID": "a5f5e16d-7c26-4e42-9917-10c80166c604",
+            "deviceProfileName": "ABP_AS923"
+        }
+    },
+    {
+        "type": "up",
+        "payload": {
+            "applicationID": "54",
+            "applicationName": "Batdau",
+            "deviceName": "Hello1",
+            "devEUI": "Iembo25a5Eg=",
+            "rxInfo": [
+                {
+                    "gatewayID": "rB8J//4G/PI=",
+                    "time": "2024-04-17T09:31:09.639603Z",
+                    "timeSinceGPSEpoch": "1397381487.640s",
+                    "rssi": -72,
+                    "loRaSNR": 6.8,
+                    "channel": 7,
+                    "rfChain": 1,
+                    "board": 0,
+                    "antenna": 0,
+                    "location": {
+                        "latitude": 16.07515,
+                        "longitude": 108.154,
+                        "altitude": 2,
+                        "source": "UNKNOWN",
+                        "accuracy": 0
+                    },
+                    "fineTimestampType": "NONE",
+                    "context": "r6xZhA==",
+                    "uplinkID": "EcxYLdCNRzyumF1y4141qQ==",
+                    "crcStatus": "CRC_OK"
+                },
+                {
+                    "gatewayID": "rB8J//4Aqwo=",
+                    "time": "2024-04-17T09:31:09.639610Z",
+                    "timeSinceGPSEpoch": "1397381487.639s",
+                    "rssi": -70,
+                    "loRaSNR": 9,
+                    "channel": 7,
+                    "rfChain": 1,
+                    "board": 0,
+                    "antenna": 0,
+                    "location": {
+                        "latitude": 16.07524,
+                        "longitude": 108.15341,
+                        "altitude": 66,
+                        "source": "UNKNOWN",
+                        "accuracy": 0
+                    },
+                    "fineTimestampType": "NONE",
+                    "context": "EmFsrA==",
+                    "uplinkID": "+oAAJ0RvSb26/TiV2R2QXw==",
+                    "crcStatus": "CRC_OK"
+                }
+            ],
+            "txInfo": {
+                "frequency": 922800000,
+                "modulation": "LORA",
+                "loRaModulationInfo": {
+                    "bandwidth": 125,
+                    "spreadingFactor": 7,
+                    "codeRate": "4/5",
+                    "polarizationInversion": false
+                }
+            },
+            "adr": true,
+            "dr": 5,
+            "fCnt": 18,
+            "fPort": 1,
+            "data": "AWcBLQJolQMCAUkEZS4nBHEAAAAAAAA=",
+            "objectJSON": "null",
+            "tags": {},
+            "confirmedUplink": false,
+            "devAddr": "AYaE3g==",
+            "publishedAt": "2024-04-17T09:32:54.209310315Z",
+            "deviceProfileID": "a5f5e16d-7c26-4e42-9917-10c80166c604",
+            "deviceProfileName": "ABP_AS923"
+        }
+    },
+    {
+        "type": "up",
+        "payload": {
+            "applicationID": "54",
+            "applicationName": "Batdau",
+            "deviceName": "Hello1",
+            "devEUI": "Iembo25a5Eg=",
+            "rxInfo": [
+                {
+                    "gatewayID": "rB8J//4Aqwo=",
+                    "time": "2024-04-17T09:31:05.130330Z",
+                    "timeSinceGPSEpoch": "1397381483.130s",
+                    "rssi": -72,
+                    "loRaSNR": 9.5,
+                    "channel": 5,
+                    "rfChain": 1,
+                    "board": 0,
+                    "antenna": 0,
+                    "location": {
+                        "latitude": 16.07524,
+                        "longitude": 108.15341,
+                        "altitude": 66,
+                        "source": "UNKNOWN",
+                        "accuracy": 0
+                    },
+                    "fineTimestampType": "NONE",
+                    "context": "EhyeTA==",
+                    "uplinkID": "bjCA13QZTCuyr3MPBgGOdQ==",
+                    "crcStatus": "CRC_OK"
+                },
+                {
+                    "gatewayID": "rB8J//4G/PI=",
+                    "time": "2024-04-17T09:31:05.130333Z",
+                    "timeSinceGPSEpoch": "1397381483.130s",
+                    "rssi": -69,
+                    "loRaSNR": 7.3,
+                    "channel": 5,
+                    "rfChain": 1,
+                    "board": 0,
+                    "antenna": 0,
+                    "location": {
+                        "latitude": 16.07521,
+                        "longitude": 108.15393,
+                        "altitude": 8,
+                        "source": "UNKNOWN",
+                        "accuracy": 0
+                    },
+                    "fineTimestampType": "NONE",
+                    "context": "r2eLLA==",
+                    "uplinkID": "2Ip+2m4tTQmo9X4B5ehEiA==",
+                    "crcStatus": "CRC_OK"
+                }
+            ],
+            "txInfo": {
+                "frequency": 922400000,
+                "modulation": "LORA",
+                "loRaModulationInfo": {
+                    "bandwidth": 125,
+                    "spreadingFactor": 7,
+                    "codeRate": "4/5",
+                    "polarizationInversion": false
+                }
+            },
+            "adr": true,
+            "dr": 5,
+            "fCnt": 16,
+            "fPort": 1,
+            "data": "AWcBLQJolgMCAUkEZS5jBHEAAAAAAAA=",
+            "objectJSON": "null",
+            "tags": {},
+            "confirmedUplink": false,
+            "devAddr": "AYaE3g==",
+            "publishedAt": "2024-04-17T09:32:49.676074225Z",
+            "deviceProfileID": "a5f5e16d-7c26-4e42-9917-10c80166c604",
+            "deviceProfileName": "ABP_AS923"
+        }
+    },
+    {
+        "type": "up",
+        "payload": {
+            "applicationID": "54",
+            "applicationName": "Batdau",
+            "deviceName": "Hello1",
+            "devEUI": "Iembo25a5Eg=",
+            "rxInfo": [
+                {
+                    "gatewayID": "rB8J//4Aqwo=",
+                    "time": "2024-04-17T09:31:00.621096Z",
+                    "timeSinceGPSEpoch": "1397381478.621s",
+                    "rssi": -69,
+                    "loRaSNR": 9.8,
+                    "channel": 3,
+                    "rfChain": 0,
+                    "board": 0,
+                    "antenna": 0,
+                    "location": {
+                        "latitude": 16.07524,
+                        "longitude": 108.15341,
+                        "altitude": 66,
+                        "source": "UNKNOWN",
+                        "accuracy": 0
+                    },
+                    "fineTimestampType": "NONE",
+                    "context": "EdfQGw==",
+                    "uplinkID": "TQhD8tKmR1Cl5nkjcSIPCg==",
+                    "crcStatus": "CRC_OK"
+                }
+            ],
+            "txInfo": {
+                "frequency": 922000000,
+                "modulation": "LORA",
+                "loRaModulationInfo": {
+                    "bandwidth": 125,
+                    "spreadingFactor": 7,
+                    "codeRate": "4/5",
+                    "polarizationInversion": false
+                }
+            },
+            "adr": true,
+            "dr": 5,
+            "fCnt": 14,
+            "fPort": 1,
+            "data": "AWcBLAJolgMCAUkEZS5ABHEAAAAAAAA=",
+            "objectJSON": "null",
+            "tags": {},
+            "confirmedUplink": false,
+            "devAddr": "AYaE3g==",
+            "publishedAt": "2024-04-17T09:32:45.226366294Z",
+            "deviceProfileID": "a5f5e16d-7c26-4e42-9917-10c80166c604",
+            "deviceProfileName": "ABP_AS923"
+        }
+    },
+    {
+        "type": "up",
+        "payload": {
+            "applicationID": "54",
+            "applicationName": "Batdau",
+            "deviceName": "Hello1",
+            "devEUI": "Iembo25a5Eg=",
+            "rxInfo": [
+                {
+                    "gatewayID": "rB8J//4G/PI=",
+                    "time": "2024-04-17T09:30:58.363789Z",
+                    "timeSinceGPSEpoch": "1397381476.364s",
+                    "rssi": -74,
+                    "loRaSNR": 6.8,
+                    "channel": 2,
+                    "rfChain": 0,
+                    "board": 0,
+                    "antenna": 0,
+                    "location": {
+                        "latitude": 16.07521,
+                        "longitude": 108.15393,
+                        "altitude": 8,
+                        "source": "UNKNOWN",
+                        "accuracy": 0
+                    },
+                    "fineTimestampType": "NONE",
+                    "context": "rwBLWw==",
+                    "uplinkID": "Cg2fT4pYR7WvsUbjQUN87A==",
+                    "crcStatus": "CRC_OK"
+                }
+            ],
+            "txInfo": {
+                "frequency": 921800000,
+                "modulation": "LORA",
+                "loRaModulationInfo": {
+                    "bandwidth": 125,
+                    "spreadingFactor": 7,
+                    "codeRate": "4/5",
+                    "polarizationInversion": false
+                }
+            },
+            "adr": true,
+            "dr": 5,
+            "fCnt": 13,
+            "fPort": 1,
+            "data": "AWcBLAJolQMCAUkEZS40BHEAAAAAAAA=",
+            "objectJSON": "null",
+            "tags": {},
+            "confirmedUplink": false,
+            "devAddr": "AYaE3g==",
+            "publishedAt": "2024-04-17T09:32:42.950745497Z",
+            "deviceProfileID": "a5f5e16d-7c26-4e42-9917-10c80166c604",
+            "deviceProfileName": "ABP_AS923"
+        }
+    },
+    {
+        "type": "up",
+        "payload": {
+            "applicationID": "54",
+            "applicationName": "Batdau",
+            "deviceName": "Hello1",
+            "devEUI": "Iembo25a5Eg=",
+            "rxInfo": [
+                {
+                    "gatewayID": "rB8J//4Aqwo=",
+                    "time": "2024-04-17T09:30:56.109167Z",
+                    "timeSinceGPSEpoch": "1397381474.109s",
+                    "rssi": -70,
+                    "loRaSNR": 11,
+                    "channel": 1,
+                    "rfChain": 0,
+                    "board": 0,
+                    "antenna": 0,
+                    "location": {
+                        "latitude": 16.07524,
+                        "longitude": 108.15341,
+                        "altitude": 66,
+                        "source": "UNKNOWN",
+                        "accuracy": 0
+                    },
+                    "fineTimestampType": "NONE",
+                    "context": "EZL3Yw==",
+                    "uplinkID": "7pTPA6S1TViSTwy0xtX8sA==",
+                    "crcStatus": "CRC_OK"
+                }
+            ],
+            "txInfo": {
+                "frequency": 921600000,
+                "modulation": "LORA",
+                "loRaModulationInfo": {
+                    "bandwidth": 125,
+                    "spreadingFactor": 7,
+                    "codeRate": "4/5",
+                    "polarizationInversion": false
+                }
+            },
+            "adr": true,
+            "dr": 5,
+            "fCnt": 12,
+            "fPort": 1,
+            "data": "AWcBLAJolQMCAUkEZS45BHEAAAAAAAA=",
+            "objectJSON": "null",
+            "tags": {},
+            "confirmedUplink": false,
+            "devAddr": "AYaE3g==",
+            "publishedAt": "2024-04-17T09:32:40.733849828Z",
+            "deviceProfileID": "a5f5e16d-7c26-4e42-9917-10c80166c604",
+            "deviceProfileName": "ABP_AS923"
+        }
+    },
+    {
+        "type": "up",
+        "payload": {
+            "applicationID": "54",
+            "applicationName": "Batdau",
+            "deviceName": "Hello1",
+            "devEUI": "Iembo25a5Eg=",
+            "rxInfo": [
+                {
+                    "gatewayID": "rB8J//4G/PI=",
+                    "time": "2024-04-17T09:30:53.854518Z",
+                    "timeSinceGPSEpoch": "1397381471.855s",
+                    "rssi": -74,
+                    "loRaSNR": 9.8,
+                    "channel": 0,
+                    "rfChain": 0,
+                    "board": 0,
+                    "antenna": 0,
+                    "location": {
+                        "latitude": 16.07521,
+                        "longitude": 108.15393,
+                        "altitude": 8,
+                        "source": "UNKNOWN",
+                        "accuracy": 0
+                    },
+                    "fineTimestampType": "NONE",
+                    "context": "rrt9Aw==",
+                    "uplinkID": "+lpRhtyJTdG1tsS38N9zeg==",
+                    "crcStatus": "CRC_OK"
+                }
+            ],
+            "txInfo": {
+                "frequency": 921400000,
+                "modulation": "LORA",
+                "loRaModulationInfo": {
+                    "bandwidth": 125,
+                    "spreadingFactor": 7,
+                    "codeRate": "4/5",
+                    "polarizationInversion": false
+                }
+            },
+            "adr": true,
+            "dr": 5,
+            "fCnt": 11,
+            "fPort": 1,
+            "data": "AWcBLAJolQMCAUkEZS4QBHEAAAAAAAA=",
+            "objectJSON": "null",
+            "tags": {},
+            "confirmedUplink": false,
+            "devAddr": "AYaE3g==",
+            "publishedAt": "2024-04-17T09:32:38.442329457Z",
+            "deviceProfileID": "a5f5e16d-7c26-4e42-9917-10c80166c604",
+            "deviceProfileName": "ABP_AS923"
+        }
+    },
+    {
+        "type": "up",
+        "payload": {
+            "applicationID": "54",
+            "applicationName": "Batdau",
+            "deviceName": "Hello1",
+            "devEUI": "Iembo25a5Eg=",
+            "rxInfo": [
+                {
+                    "gatewayID": "rB8J//4Aqwo=",
+                    "time": "2024-04-17T09:30:51.599816Z",
+                    "timeSinceGPSEpoch": "1397381469.599s",
+                    "rssi": -68,
+                    "loRaSNR": 10,
+                    "channel": 7,
+                    "rfChain": 1,
+                    "board": 0,
+                    "antenna": 0,
+                    "location": {
+                        "latitude": 16.07524,
+                        "longitude": 108.15341,
+                        "altitude": 66,
+                        "source": "UNKNOWN",
+                        "accuracy": 0
+                    },
+                    "fineTimestampType": "NONE",
+                    "context": "EU4ovA==",
+                    "uplinkID": "bQHdAoB7SteefrL0QbDB7Q==",
+                    "crcStatus": "CRC_OK"
+                }
+            ],
+            "txInfo": {
+                "frequency": 922800000,
+                "modulation": "LORA",
+                "loRaModulationInfo": {
+                    "bandwidth": 125,
+                    "spreadingFactor": 7,
+                    "codeRate": "4/5",
+                    "polarizationInversion": false
+                }
+            },
+            "adr": true,
+            "dr": 5,
+            "fCnt": 10,
+            "fPort": 1,
+            "data": "AWcBKwJolgMCAUkEZS3fBHEAAAAAAAA=",
+            "objectJSON": "null",
+            "tags": {},
+            "confirmedUplink": false,
+            "devAddr": "AYaE3g==",
+            "publishedAt": "2024-04-17T09:32:36.150667387Z",
+            "deviceProfileID": "a5f5e16d-7c26-4e42-9917-10c80166c604",
+            "deviceProfileName": "ABP_AS923"
+        }
+    },
+    {
+        "type": "up",
+        "payload": {
+            "applicationID": "54",
+            "applicationName": "Batdau",
+            "deviceName": "Hello1",
+            "devEUI": "Iembo25a5Eg=",
+            "rxInfo": [
+                {
+                    "gatewayID": "rB8J//4G/PI=",
+                    "time": "2024-04-17T09:30:49.345190Z",
+                    "timeSinceGPSEpoch": "1397381467.345s",
+                    "rssi": -75,
+                    "loRaSNR": 5,
+                    "channel": 6,
+                    "rfChain": 1,
+                    "board": 0,
+                    "antenna": 0,
+                    "location": {
+                        "latitude": 16.07521,
+                        "longitude": 108.15393,
+                        "altitude": 8,
+                        "source": "UNKNOWN",
+                        "accuracy": 0
+                    },
+                    "fineTimestampType": "NONE",
+                    "context": "rnaudA==",
+                    "uplinkID": "ZPG4/3LXSM20/F2scUOIyA==",
+                    "crcStatus": "CRC_OK"
+                }
+            ],
+            "txInfo": {
+                "frequency": 922600000,
+                "modulation": "LORA",
+                "loRaModulationInfo": {
+                    "bandwidth": 125,
+                    "spreadingFactor": 7,
+                    "codeRate": "4/5",
+                    "polarizationInversion": false
+                }
+            },
+            "adr": true,
+            "dr": 5,
+            "fCnt": 9,
+            "fPort": 1,
+            "data": "AWcBKwJolgMCAUkEZS3zBHEAAAAAAAA=",
+            "objectJSON": "null",
+            "tags": {},
+            "confirmedUplink": false,
+            "devAddr": "AYaE3g==",
+            "publishedAt": "2024-04-17T09:32:33.892820656Z",
+            "deviceProfileID": "a5f5e16d-7c26-4e42-9917-10c80166c604",
+            "deviceProfileName": "ABP_AS923"
+        }
+    },
+    {
+        "type": "up",
+        "payload": {
+            "applicationID": "54",
+            "applicationName": "Batdau",
+            "deviceName": "Hello1",
+            "devEUI": "Iembo25a5Eg=",
+            "rxInfo": [
+                {
+                    "gatewayID": "rB8J//4G/PI=",
+                    "time": "2024-04-17T09:30:47.090551Z",
+                    "timeSinceGPSEpoch": "1397381465.091s",
+                    "rssi": -78,
+                    "loRaSNR": 6.8,
+                    "channel": 5,
+                    "rfChain": 1,
+                    "board": 0,
+                    "antenna": 0,
+                    "location": {
+                        "latitude": 16.07521,
+                        "longitude": 108.15393,
+                        "altitude": 8,
+                        "source": "UNKNOWN",
+                        "accuracy": 0
+                    },
+                    "fineTimestampType": "NONE",
+                    "context": "rlRHRA==",
+                    "uplinkID": "eafcHgYNQKeh0s/ttfpuRw==",
+                    "crcStatus": "CRC_OK"
+                },
+                {
+                    "gatewayID": "rB8J//4Aqwo=",
+                    "time": "2024-04-17T09:30:47.090553Z",
+                    "timeSinceGPSEpoch": "1397381465.090s",
+                    "rssi": -68,
+                    "loRaSNR": 9.8,
+                    "channel": 5,
+                    "rfChain": 1,
+                    "board": 0,
+                    "antenna": 0,
+                    "location": {
+                        "latitude": 16.07524,
+                        "longitude": 108.15341,
+                        "altitude": 66,
+                        "source": "UNKNOWN",
+                        "accuracy": 0
+                    },
+                    "fineTimestampType": "NONE",
+                    "context": "EQlabA==",
+                    "uplinkID": "OZuLN89QSWaNxxdmDnIkmg==",
+                    "crcStatus": "CRC_OK"
+                }
+            ],
+            "txInfo": {
+                "frequency": 922400000,
+                "modulation": "LORA",
+                "loRaModulationInfo": {
+                    "bandwidth": 125,
+                    "spreadingFactor": 7,
+                    "codeRate": "4/5",
+                    "polarizationInversion": false
+                }
+            },
+            "adr": true,
+            "dr": 5,
+            "fCnt": 8,
+            "fPort": 1,
+            "data": "AWcBKwJolQMCAUkEZS3zBHEAAAAAAAA=",
+            "objectJSON": "null",
+            "tags": {},
+            "confirmedUplink": false,
+            "devAddr": "AYaE3g==",
+            "publishedAt": "2024-04-17T09:32:31.734187992Z",
+            "deviceProfileID": "a5f5e16d-7c26-4e42-9917-10c80166c604",
+            "deviceProfileName": "ABP_AS923"
+        }
+    },
+    {
+        "type": "up",
+        "payload": {
+            "applicationID": "54",
+            "applicationName": "Batdau",
+            "deviceName": "Hello1",
+            "devEUI": "Iembo25a5Eg=",
+            "rxInfo": [
+                {
+                    "gatewayID": "rB8J//4Aqwo=",
+                    "time": "2024-04-17T09:30:42.581286Z",
+                    "timeSinceGPSEpoch": "1397381460.581s",
+                    "rssi": -70,
+                    "loRaSNR": 10.8,
+                    "channel": 3,
+                    "rfChain": 0,
+                    "board": 0,
+                    "antenna": 0,
+                    "location": {
+                        "latitude": 16.07524,
+                        "longitude": 108.15341,
+                        "altitude": 66,
+                        "source": "UNKNOWN",
+                        "accuracy": 0
+                    },
+                    "fineTimestampType": "NONE",
+                    "context": "EMSMGw==",
+                    "uplinkID": "45gPnqt1T7yQprElLunEoA==",
+                    "crcStatus": "CRC_OK"
+                }
+            ],
+            "txInfo": {
+                "frequency": 922000000,
+                "modulation": "LORA",
+                "loRaModulationInfo": {
+                    "bandwidth": 125,
+                    "spreadingFactor": 7,
+                    "codeRate": "4/5",
+                    "polarizationInversion": false
+                }
+            },
+            "adr": true,
+            "dr": 5,
+            "fCnt": 6,
+            "fPort": 1,
+            "data": "AWcBKwJolwMCAUkEZS4bBHEAAAAAAAA=",
+            "objectJSON": "null",
+            "tags": {},
+            "confirmedUplink": false,
+            "devAddr": "AYaE3g==",
+            "publishedAt": "2024-04-17T09:32:27.160446068Z",
+            "deviceProfileID": "a5f5e16d-7c26-4e42-9917-10c80166c604",
+            "deviceProfileName": "ABP_AS923"
+        }
+    },
+    {
+        "type": "up",
+        "payload": {
+            "applicationID": "54",
+            "applicationName": "Batdau",
+            "deviceName": "Hello1",
+            "devEUI": "Iembo25a5Eg=",
+            "rxInfo": [
+                {
+                    "gatewayID": "rB8J//4G/PI=",
+                    "time": "2024-04-17T09:30:40.323984Z",
+                    "timeSinceGPSEpoch": "1397381458.324s",
+                    "rssi": -74,
+                    "loRaSNR": 8,
+                    "channel": 2,
+                    "rfChain": 0,
+                    "board": 0,
+                    "antenna": 0,
+                    "location": {
+                        "latitude": 16.07521,
+                        "longitude": 108.15393,
+                        "altitude": 8,
+                        "source": "UNKNOWN",
+                        "accuracy": 0
+                    },
+                    "fineTimestampType": "NONE",
+                    "context": "re0HWw==",
+                    "uplinkID": "RF1rCKobRrC+VWrWEf5utg==",
+                    "crcStatus": "CRC_OK"
+                }
+            ],
+            "txInfo": {
+                "frequency": 921800000,
+                "modulation": "LORA",
+                "loRaModulationInfo": {
+                    "bandwidth": 125,
+                    "spreadingFactor": 7,
+                    "codeRate": "4/5",
+                    "polarizationInversion": false
+                }
+            },
+            "adr": true,
+            "dr": 5,
+            "fCnt": 5,
+            "fPort": 1,
+            "data": "AWcBKgJolwMCAUkEZS3zBHEAAAAAAAA=",
+            "objectJSON": "null",
+            "tags": {},
+            "confirmedUplink": false,
+            "devAddr": "AYaE3g==",
+            "publishedAt": "2024-04-17T09:32:24.877077758Z",
+            "deviceProfileID": "a5f5e16d-7c26-4e42-9917-10c80166c604",
+            "deviceProfileName": "ABP_AS923"
+        }
+    }
+]
